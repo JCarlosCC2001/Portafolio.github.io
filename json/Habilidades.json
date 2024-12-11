@@ -1,0 +1,1002 @@
+{
+    "Lenguajes de Programación": {
+        "State": "activated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "Python",
+                "descripcion": "Lenguaje de programación multiparadigma enfocado en la legibilidad y simplicidad.",
+                "certificados": [
+                    "300000001",
+                    "300000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/python.svg",
+                    "dark": "/img/habilidades/python.svg",
+                    "solid-light": "/img/habilidades/python.svg",
+                    "solid-dark": "/img/habilidades/python.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "C/C++",
+                "descripcion": "Lenguajes de programación de bajo nivel utilizados en el desarrollo de sistemas y aplicaciones de alto rendimiento.",
+                "certificados": [
+                    "300000004"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/cplusplus.svg",
+                    "dark": "/img/habilidades/cplusplus.svg",
+                    "solid-light": "/img/habilidades/cplusplus.svg",
+                    "solid-dark": "/img/habilidades/cplusplus.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Java",
+                "descripcion": "Lenguaje de programación orientado a objetos, utilizado en desarrollo de aplicaciones de servidor y Android.",
+                "certificados": [
+                    "300000003"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/java.svg",
+                    "dark": "/img/habilidades/java.svg",
+                    "solid-light": "/img/habilidades/java.svg",
+                    "solid-dark": "/img/habilidades/java.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "JavaScript",
+                "descripcion": "Lenguaje de programación para desarrollo web interactivo y dinámico.",
+                "certificados": [
+                    "300000005"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/javascript.svg",
+                    "dark": "/img/habilidades/javascript.svg",
+                    "solid-light": "/img/habilidades/javascript.svg",
+                    "solid-dark": "/img/habilidades/javascript.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Ruby",
+                "descripcion": "Lenguaje de programación dinámico y orientado a objetos, conocido por su sintaxis sencilla y elegante.",
+                "certificados": [
+                    "300000006"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/ruby.svg",
+                    "dark": "/img/habilidades/ruby.svg",
+                    "solid-light": "/img/habilidades/ruby.svg",
+                    "solid-dark": "/img/habilidades/ruby.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Swift",
+                "descripcion": "Lenguaje de programación desarrollado por Apple para aplicaciones iOS y macOS, conocido por su rendimiento y seguridad.",
+                "certificados": [
+                    "300000008"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/swift.svg",
+                    "dark": "/img/habilidades/swift.svg",
+                    "solid-light": "/img/habilidades/swift.svg",
+                    "solid-dark": "/img/habilidades/swift.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Go (Golang)",
+                "descripcion": "Lenguaje de programación desarrollado por Google, conocido por su simplicidad y eficiencia en sistemas concurrentes.",
+                "certificados": [
+                    "300000009"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/go.svg",
+                    "dark": "/img/habilidades/go.svg",
+                    "solid-light": "/img/habilidades/go.svg",
+                    "solid-dark": "/img/habilidades/go.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Kotlin",
+                "descripcion": "Lenguaje de programación basado en JVM, totalmente interoperable con Java y utilizado principalmente para aplicaciones Android.",
+                "certificados": [
+                    "300000010"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/kotlin.svg",
+                    "dark": "/img/habilidades/kotlin.svg",
+                    "solid-light": "/img/habilidades/kotlin.svg",
+                    "solid-dark": "/img/habilidades/kotlin.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "TypeScript",
+                "descripcion": "Superset de JavaScript que agrega tipado estático, utilizado principalmente en el desarrollo web moderno.",
+                "certificados": [
+                    "300000011"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/typescript.svg",
+                    "dark": "/img/habilidades/typescript.svg",
+                    "solid-light": "/img/habilidades/typescript.svg",
+                    "solid-dark": "/img/habilidades/typescript.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "PHP",
+                "descripcion": "Lenguaje de programación utilizado principalmente para desarrollo web del lado del servidor.",
+                "certificados": [
+                    "300000007"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/php.svg",
+                    "dark": "/img/habilidades/php.svg",
+                    "solid-light": "/img/habilidades/php.svg",
+                    "solid-dark": "/img/habilidades/php.svg"
+                }
+            }
+        ]
+    },
+    "Frameworks y Librerías": {
+        "State": "desactivated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "React.js",
+                "descripcion": "Biblioteca de JavaScript para construir interfaces de usuario interactivas, ampliamente utilizada para desarrollar aplicaciones web dinámicas.",
+                "certificados": [
+                    "300000047"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/react.svg",
+                    "dark": "/img/habilidades/react.svg",
+                    "solid-light": "/img/habilidades/react.svg",
+                    "solid-dark": "/img/habilidades/react.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Vue.js",
+                "descripcion": "Framework progresivo de JavaScript para construir interfaces de usuario, que es fácil de integrar con otras bibliotecas y tiene un enfoque en la simplicidad y el rendimiento.",
+                "certificados": [
+                    "300000048"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/vue.svg",
+                    "dark": "/img/habilidades/vue.svg",
+                    "solid-light": "/img/habilidades/vue.svg",
+                    "solid-dark": "/img/habilidades/vue.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Angular",
+                "descripcion": "Framework de JavaScript de código abierto para el desarrollo de aplicaciones web dinámicas y de una sola página, mantenido por Google.",
+                "certificados": [
+                    "300000049"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/angular.svg",
+                    "dark": "/img/habilidades/angular.svg",
+                    "solid-light": "/img/habilidades/angular.svg",
+                    "solid-dark": "/img/habilidades/angular.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Svelte",
+                "descripcion": "Framework para construir interfaces de usuario reactivas, que convierte los componentes en código altamente eficiente durante la compilación.",
+                "certificados": [
+                    "300000050"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/svelte.svg",
+                    "dark": "/img/habilidades/svelte.svg",
+                    "solid-light": "/img/habilidades/svelte.svg",
+                    "solid-dark": "/img/habilidades/svelte.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Node.js",
+                "descripcion": "Entorno de ejecución de JavaScript del lado del servidor, que permite la creación de aplicaciones de alto rendimiento con una arquitectura no bloqueante.",
+                "certificados": [
+                    "300000051"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/nodejs.svg",
+                    "dark": "/img/habilidades/nodejs.svg",
+                    "solid-light": "/img/habilidades/nodejs.svg",
+                    "solid-dark": "/img/habilidades/nodejs.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Express.js",
+                "descripcion": "Framework minimalista para Node.js que facilita el desarrollo de aplicaciones web y APIs robustas, con un enfoque en simplicidad y flexibilidad.",
+                "certificados": [
+                    "300000052"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/express.svg",
+                    "dark": "/img/habilidades/express.svg",
+                    "solid-light": "/img/habilidades/express.svg",
+                    "solid-dark": "/img/habilidades/express.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Django",
+                "descripcion": "Framework de alto nivel para el desarrollo web en Python, que promueve el desarrollo rápido y limpio, con herramientas integradas para crear aplicaciones web seguras y escalables.",
+                "certificados": [
+                    "300000053"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/django.svg",
+                    "dark": "/img/habilidades/django.svg",
+                    "solid-light": "/img/habilidades/django.svg",
+                    "solid-dark": "/img/habilidades/django.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Flask",
+                "descripcion": "Microframework de Python para la creación de aplicaciones web, simple y ligero, ideal para proyectos más pequeños o cuando se busca mayor flexibilidad.",
+                "certificados": [
+                    "300000054"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/flask.svg",
+                    "dark": "/img/habilidades/flask.svg",
+                    "solid-light": "/img/habilidades/flask.svg",
+                    "solid-dark": "/img/habilidades/flask.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Spring Boot",
+                "descripcion": "Framework de Java que facilita la creación de aplicaciones empresariales de nivel de producción con un enfoque en la simplicidad y la facilidad de configuración.",
+                "certificados": [
+                    "300000055"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/springboot.svg",
+                    "dark": "/img/habilidades/springboot.svg",
+                    "solid-light": "/img/habilidades/springboot.svg",
+                    "solid-dark": "/img/habilidades/springboot.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Ruby on Rails",
+                "descripcion": "Framework de desarrollo web en Ruby que sigue el patrón de diseño MVC, conocido por su rapidez en el desarrollo de aplicaciones web robustas y escalables.",
+                "certificados": [
+                    "300000056"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/rails.svg",
+                    "dark": "/img/habilidades/rails.svg",
+                    "solid-light": "/img/habilidades/rails.svg",
+                    "solid-dark": "/img/habilidades/rails.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Laravel",
+                "descripcion": "Framework de PHP para el desarrollo de aplicaciones web con un enfoque en la simplicidad, el rendimiento y la seguridad, conocido por su sintaxis elegante y fácil de usar.",
+                "certificados": [
+                    "300000057"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/laravel.svg",
+                    "dark": "/img/habilidades/laravel.svg",
+                    "solid-light": "/img/habilidades/laravel.svg",
+                    "solid-dark": "/img/habilidades/laravel.svg"
+                }
+            }
+        ]
+    },
+    "Bases de Datos": {
+        "State": "activated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "MySQL",
+                "descripcion": "Sistema de gestión de bases de datos relacional (RDBMS) popular para aplicaciones web y soporta SQL (Structured Query Language) para la manipulación de datos.",
+                "certificados": [
+                    "300000038"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/mysql.svg",
+                    "dark": "/img/habilidades/mysql.svg",
+                    "solid-light": "/img/habilidades/mysql.svg",
+                    "solid-dark": "/img/habilidades/mysql.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "PostgreSQL",
+                "descripcion": "Sistema de gestión de bases de datos relacional de código abierto conocido por su robustez, capacidad de extensibilidad y cumplimiento con los estándares SQL.",
+                "certificados": [
+                    "300000039"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/postgresql.svg",
+                    "dark": "/img/habilidades/postgresql.svg",
+                    "solid-light": "/img/habilidades/postgresql.svg",
+                    "solid-dark": "/img/habilidades/postgresql.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "SQL Server",
+                "descripcion": "Sistema de gestión de bases de datos relacional desarrollado por Microsoft, utilizado principalmente en aplicaciones empresariales y de gran escala.",
+                "certificados": [
+                    "300000040"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/sqlserver.svg",
+                    "dark": "/img/habilidades/sqlserver.svg",
+                    "solid-light": "/img/habilidades/sqlserver.svg",
+                    "solid-dark": "/img/habilidades/sqlserver.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "MongoDB",
+                "descripcion": "Base de datos NoSQL orientada a documentos, que almacena datos en formato JSON flexible, utilizado en aplicaciones de alto rendimiento y escalabilidad.",
+                "certificados": [
+                    "300000041"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/mongodb.svg",
+                    "dark": "/img/habilidades/mongodb.svg",
+                    "solid-light": "/img/habilidades/mongodb.svg",
+                    "solid-dark": "/img/habilidades/mongodb.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Cassandra",
+                "descripcion": "Base de datos NoSQL distribuida y escalable, diseñada para manejar grandes volúmenes de datos sin un único punto de falla.",
+                "certificados": [
+                    "300000042"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/cassandra.svg",
+                    "dark": "/img/habilidades/cassandra.svg",
+                    "solid-light": "/img/habilidades/cassandra.svg",
+                    "solid-dark": "/img/habilidades/cassandra.svg"
+                }
+            }
+        ]
+    },
+    "Sistemas Operativos": {
+        "State": "desactivated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "Linux",
+                "descripcion": "Sistema operativo de código abierto basado en el núcleo Linux, utilizado en servidores, dispositivos embebidos y computadoras personales.",
+                "certificados": [
+                    "300000016"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/linux.svg",
+                    "dark": "/img/habilidades/linux.svg",
+                    "solid-light": "/img/habilidades/linux.svg",
+                    "solid-dark": "/img/habilidades/linux.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Ubuntu",
+                "descripcion": "Distribución de Linux basada en Debian, conocida por su facilidad de uso y su amplio soporte para aplicaciones y hardware.",
+                "certificados": [
+                    "300000017"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/ubuntu.svg",
+                    "dark": "/img/habilidades/ubuntu.svg",
+                    "solid-light": "/img/habilidades/ubuntu.svg",
+                    "solid-dark": "/img/habilidades/ubuntu.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "CentOS",
+                "descripcion": "Distribución de Linux basada en Red Hat Enterprise Linux (RHEL), enfocada en servidores y sistemas de alto rendimiento.",
+                "certificados": [
+                    "300000018"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/centos.svg",
+                    "dark": "/img/habilidades/centos.svg",
+                    "solid-light": "/img/habilidades/centos.svg",
+                    "solid-dark": "/img/habilidades/centos.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Debian",
+                "descripcion": "Distribución de Linux conocida por su estabilidad, ampliamente utilizada como base para otras distribuciones como Ubuntu.",
+                "certificados": [
+                    "300000019"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/debian.svg",
+                    "dark": "/img/habilidades/debian.svg",
+                    "solid-light": "/img/habilidades/debian.svg",
+                    "solid-dark": "/img/habilidades/debian.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Fedora",
+                "descripcion": "Distribución de Linux patrocinada por Red Hat, conocida por su enfoque en la innovación y la inclusión de software más reciente.",
+                "certificados": [
+                    "300000020"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/fedora.svg",
+                    "dark": "/img/habilidades/fedora.svg",
+                    "solid-light": "/img/habilidades/fedora.svg",
+                    "solid-dark": "/img/habilidades/fedora.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Windows Server",
+                "descripcion": "Sistema operativo de servidor de Microsoft, utilizado para administrar redes, aplicaciones y almacenamiento en grandes empresas.",
+                "certificados": [
+                    "300000021"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/windows-server.svg",
+                    "dark": "/img/habilidades/windows-server.svg",
+                    "solid-light": "/img/habilidades/windows-server.svg",
+                    "solid-dark": "/img/habilidades/windows-server.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "macOS",
+                "descripcion": "Sistema operativo de Apple, utilizado en dispositivos de escritorio y portátiles, conocido por su estabilidad y seguridad.",
+                "certificados": [
+                    "300000022"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/macos.svg",
+                    "dark": "/img/habilidades/macos.svg",
+                    "solid-light": "/img/habilidades/macos.svg",
+                    "solid-dark": "/img/habilidades/macos.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Android",
+                "descripcion": "Sistema operativo basado en Linux para dispositivos móviles, ampliamente utilizado en smartphones y tabletas.",
+                "certificados": [
+                    "300000023"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/android.svg",
+                    "dark": "/img/habilidades/android.svg",
+                    "solid-light": "/img/habilidades/android.svg",
+                    "solid-dark": "/img/habilidades/android.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "iOS",
+                "descripcion": "Sistema operativo móvil de Apple, utilizado en iPhones, iPads y otros dispositivos móviles, conocido por su ecosistema cerrado y optimización.",
+                "certificados": [
+                    "300000024"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/ios.svg",
+                    "dark": "/img/habilidades/ios.svg",
+                    "solid-light": "/img/habilidades/ios.svg",
+                    "solid-dark": "/img/habilidades/ios.svg"
+                }
+            }
+        ]
+    },
+    "Herramientas de Desarrollo": {
+        "State": "activated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "Git",
+                "descripcion": "Sistema de control de versiones distribuido utilizado para gestionar el código fuente de proyectos de desarrollo de software.",
+                "certificados": [
+                    "300000012"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/git.svg",
+                    "dark": "/img/habilidades/git.svg",
+                    "solid-light": "/img/habilidades/git.svg",
+                    "solid-dark": "/img/habilidades/git.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "GitHub",
+                "descripcion": "Plataforma basada en Git para alojamiento de proyectos y colaboración, que permite compartir código y realizar revisiones mediante 'pull requests'.",
+                "certificados": [
+                    "300000013"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/github-light.svg",
+                    "dark": "/img/habilidades/github-dark.svg",
+                    "solid-light": "/img/habilidades/github-solid-light.svg",
+                    "solid-dark": "/img/habilidades/github-solid-dark.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "GitLab",
+                "descripcion": "Plataforma de desarrollo basada en Git que permite la integración continua y el ciclo de vida completo del desarrollo de software.",
+                "certificados": [
+                    "300000014"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/gitlab.svg",
+                    "dark": "/img/habilidades/gitlab.svg",
+                    "solid-light": "/img/habilidades/gitlab.svg",
+                    "solid-dark": "/img/habilidades/gitlab.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Bitbucket",
+                "descripcion": "Plataforma de colaboración basada en Git, diseñada para equipos de desarrollo, con integración para la gestión de código y seguimiento de proyectos.",
+                "certificados": [
+                    "300000015"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/bitbucket.svg",
+                    "dark": "/img/habilidades/bitbucket.svg",
+                    "solid-light": "/img/habilidades/bitbucket.svg",
+                    "solid-dark": "/img/habilidades/bitbucket.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Docker",
+                "descripcion": "Plataforma que automatiza la implementación de aplicaciones dentro de contenedores, asegurando que el software se ejecute de manera consistente en cualquier entorno.",
+                "certificados": [
+                    "300000058"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/docker.svg",
+                    "dark": "/img/habilidades/docker.svg",
+                    "solid-light": "/img/habilidades/docker.svg",
+                    "solid-dark": "/img/habilidades/docker.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Visual Studio Code",
+                "descripcion": "Editor de código fuente ligero y potente con soporte para depuración, control de versiones y extensiones, utilizado en múltiples lenguajes de programación.",
+                "certificados": [
+                    "300000043"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/visual-studio-code.svg",
+                    "dark": "/img/habilidades/visual-studio.svg",
+                    "solid-light": "/img/habilidades/visual-studio.svg",
+                    "solid-dark": "/img/habilidades/visual-studio.svg"
+                }
+            },
+            {
+                "State": "desactivated",
+                "nombre": "Postman",
+                "descripcion": "Herramienta para pruebas de APIs que permite enviar solicitudes HTTP, verificar respuestas, y documentar las APIs de manera eficiente.",
+                "certificados": [
+                    "300000071"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/postman.svg",
+                    "dark": "/img/habilidades/postman.svg",
+                    "solid-light": "/img/habilidades/postman.svg",
+                    "solid-dark": "/img/habilidades/postman.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "XAMPP",
+                "descripcion": "XAMPP es una distribución de Apache fácil de instalar que incluye MySQL, PHP, y Perl. Es una herramienta popular para desarrollar aplicaciones web localmente.",
+                "certificados": [
+                    "400000001",
+                    "400000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/xampp.svg",
+                    "dark": "/img/habilidades/xampp.svg",
+                    "solid-light": "/img/habilidades/xampp.svg",
+                    "solid-dark": "/img/habilidades/xampp.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Apache NetBeans",
+                "descripcion": "Entorno de desarrollo integrado (IDE) gratuito y de código abierto, utilizado para desarrollar aplicaciones en Java, PHP, HTML5 y más.",
+                "certificados": [
+                    "900000001",
+                    "900000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/netbeans.svg",
+                    "dark": "/img/habilidades/netbeans.svg",
+                    "solid-light": "/img/habilidades/netbeans.svg",
+                    "solid-dark": "/img/habilidades/netbeans.svg"
+                }
+            }
+        ]
+    },
+    "Tecnologías de la Web": {
+        "State": "activated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "HTML",
+                "descripcion": "Lenguaje de marcado utilizado para estructurar el contenido de páginas web.",
+                "certificados": [
+                    "100000001",
+                    "100000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/html.svg",
+                    "dark": "/img/habilidades/html.svg",
+                    "solid-light": "/img/habilidades/html.svg",
+                    "solid-dark": "/img/habilidades/html.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "CSS",
+                "descripcion": "Lenguaje de estilo utilizado para diseñar y maquetar páginas web, controlando la apariencia visual.",
+                "certificados": [
+                    "200000001",
+                    "200000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/css.svg",
+                    "dark": "/img/habilidades/css.svg",
+                    "solid-light": "/img/habilidades/css.svg",
+                    "solid-dark": "/img/habilidades/css.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "WordPress",
+                "descripcion": "Sistema de gestión de contenido (CMS) utilizado para crear y administrar sitios web, blogs y tiendas en línea.",
+                "certificados": [
+                    "600000001",
+                    "600000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/wordpress.svg",
+                    "dark": "/img/habilidades/wordpress.svg",
+                    "solid-light": "/img/habilidades/wordpress.svg",
+                    "solid-dark": "/img/habilidades/wordpress.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Hostinger",
+                "descripcion": "Proveedor de alojamiento web que ofrece soluciones para hosting compartido, VPS, dominios, y servicios en la nube.",
+                "certificados": [
+                    "700000001",
+                    "700000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/hostinger-solid-light.svg",
+                    "dark": "/img/habilidades/hostinger-solid-dark.svg",
+                    "solid-light": "/img/habilidades/hostinger-solid-light.svg",
+                    "solid-dark": "/img/habilidades/hostinger-solid-dark.svg"
+                }
+            }
+        ]
+    },
+    "Diseño y Prototipado": {
+        "State": "desactivated",
+        "Contenido": [
+            {
+                "State": "desactivated",
+                "nombre": "C/C++",
+                "descripcion": "Lenguajes de programación de bajo nivel utilizados en el desarrollo de sistemas y aplicaciones de alto rendimiento.",
+                "certificados": [
+                    "300000004"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/cplusplus.svg",
+                    "dark": "/img/habilidades/cplusplus.svg",
+                    "solid-light": "/img/habilidades/cplusplus.svg",
+                    "solid-dark": "/img/habilidades/cplusplus.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "PHP",
+                "descripcion": "Lenguaje de programación utilizado principalmente para desarrollo web del lado del servidor.",
+                "certificados": [
+                    "300000007"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/php.svg",
+                    "dark": "/img/habilidades/php.svg",
+                    "solid-light": "/img/habilidades/php.svg",
+                    "solid-dark": "/img/habilidades/php.svg"
+                }
+            }
+        ]
+    },
+    "Ciberseguridad": {
+        "State": "desactivated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "Kali Linux",
+                "descripcion": "Distribución de Linux enfocada en pruebas de penetración y auditorías de seguridad, incluye herramientas como Metasploit, Nmap, y más.",
+                "certificados": [
+                    "300000074"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/kali-linux.svg",
+                    "dark": "/img/habilidades/kali-linux.svg",
+                    "solid-light": "/img/habilidades/kali-linux.svg",
+                    "solid-dark": "/img/habilidades/kali-linux.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "OWASP ZAP",
+                "descripcion": "Herramienta de pruebas de seguridad para aplicaciones web, utilizada para encontrar vulnerabilidades como inyecciones, scripts y configuraciones inseguras.",
+                "certificados": [
+                    "300000075"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/owasp-zap.svg",
+                    "dark": "/img/habilidades/owasp-zap.svg",
+                    "solid-light": "/img/habilidades/owasp-zap.svg",
+                    "solid-dark": "/img/habilidades/owasp-zap.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Wireshark",
+                "descripcion": "Herramienta de análisis de paquetes de red que permite capturar y examinar los datos que viajan por una red en tiempo real, usada en auditorías de seguridad.",
+                "certificados": [
+                    "300000076"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/wireshark.svg",
+                    "dark": "/img/habilidades/wireshark.svg",
+                    "solid-light": "/img/habilidades/wireshark.svg",
+                    "solid-dark": "/img/habilidades/wireshark.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Metasploit",
+                "descripcion": "Herramienta de explotación de vulnerabilidades que permite realizar pruebas de penetración, identificar y explotar debilidades en sistemas.",
+                "certificados": [
+                    "300000077"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/metasploit.svg",
+                    "dark": "/img/habilidades/metasploit.svg",
+                    "solid-light": "/img/habilidades/metasploit.svg",
+                    "solid-dark": "/img/habilidades/metasploit.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Burp Suite",
+                "descripcion": "Conjunto de herramientas para pruebas de seguridad en aplicaciones web, usado para encontrar y explotar vulnerabilidades como XSS, CSRF y SQLi.",
+                "certificados": [
+                    "300000078"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/burp-suite.svg",
+                    "dark": "/img/habilidades/burp-suite.svg",
+                    "solid-light": "/img/habilidades/burp-suite.svg",
+                    "solid-dark": "/img/habilidades/burp-suite.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "OpenSSL",
+                "descripcion": "Herramienta de criptografía utilizada para la implementación de protocolos de seguridad como SSL/TLS, y la creación de claves y certificados digitales.",
+                "certificados": [
+                    "300000079"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/openssl.svg",
+                    "dark": "/img/habilidades/openssl.svg",
+                    "solid-light": "/img/habilidades/openssl.svg",
+                    "solid-dark": "/img/habilidades/openssl.svg"
+                }
+            }
+        ]
+    },
+    "Gestión de Proyectos": {
+        "State": "desactivated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "Kali Linux",
+                "descripcion": "Distribución de Linux enfocada en pruebas de penetración y auditorías de seguridad, incluye herramientas como Metasploit, Nmap, y más.",
+                "certificados": [
+                    "300000074"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/kali-linux.svg",
+                    "dark": "/img/habilidades/kali-linux.svg",
+                    "solid-light": "/img/habilidades/kali-linux.svg",
+                    "solid-dark": "/img/habilidades/kali-linux.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "OWASP ZAP",
+                "descripcion": "Herramienta de pruebas de seguridad para aplicaciones web, utilizada para encontrar vulnerabilidades como inyecciones, scripts y configuraciones inseguras.",
+                "certificados": [
+                    "300000075"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/owasp-zap.svg",
+                    "dark": "/img/habilidades/owasp-zap.svg",
+                    "solid-light": "/img/habilidades/owasp-zap.svg",
+                    "solid-dark": "/img/habilidades/owasp-zap.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Wireshark",
+                "descripcion": "Herramienta de análisis de paquetes de red que permite capturar y examinar los datos que viajan por una red en tiempo real, usada en auditorías de seguridad.",
+                "certificados": [
+                    "300000076"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/wireshark.svg",
+                    "dark": "/img/habilidades/wireshark.svg",
+                    "solid-light": "/img/habilidades/wireshark.svg",
+                    "solid-dark": "/img/habilidades/wireshark.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Metasploit",
+                "descripcion": "Herramienta de explotación de vulnerabilidades que permite realizar pruebas de penetración, identificar y explotar debilidades en sistemas.",
+                "certificados": [
+                    "300000077"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/metasploit.svg",
+                    "dark": "/img/habilidades/metasploit.svg",
+                    "solid-light": "/img/habilidades/metasploit.svg",
+                    "solid-dark": "/img/habilidades/metasploit.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Burp Suite",
+                "descripcion": "Conjunto de herramientas para pruebas de seguridad en aplicaciones web, usado para encontrar y explotar vulnerabilidades como XSS, CSRF y SQLi.",
+                "certificados": [
+                    "300000078"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/burp-suite.svg",
+                    "dark": "/img/habilidades/burp-suite.svg",
+                    "solid-light": "/img/habilidades/burp-suite.svg",
+                    "solid-dark": "/img/habilidades/burp-suite.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "OpenSSL",
+                "descripcion": "Herramienta de criptografía utilizada para la implementación de protocolos de seguridad como SSL/TLS, y la creación de claves y certificados digitales.",
+                "certificados": [
+                    "300000079"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/openssl.svg",
+                    "dark": "/img/habilidades/openssl.svg",
+                    "solid-light": "/img/habilidades/openssl.svg",
+                    "solid-dark": "/img/habilidades/openssl.svg"
+                }
+            }
+        ]
+    },
+    "Otros Conocimientos": {
+        "State": "activated",
+        "Contenido": [
+            {
+                "State": "activated",
+                "nombre": "Word",
+                "descripcion": "Procesador de textos utilizado para crear, editar, y formatear documentos de forma profesional.",
+                "certificados": [
+                    "800000003",
+                    "800000004"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/word.svg",
+                    "dark": "/img/habilidades/word.svg",
+                    "solid-light": "/img/habilidades/word.svg",
+                    "solid-dark": "/img/habilidades/word.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Excel",
+                "descripcion": "Herramienta de hojas de cálculo utilizada para analizar datos, crear gráficos, y realizar cálculos complejos.",
+                "certificados": [
+                    "800000001",
+                    "800000002"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/excel.svg",
+                    "dark": "/img/habilidades/excel.svg",
+                    "solid-light": "/img/habilidades/excel.svg",
+                    "solid-dark": "/img/habilidades/excel.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "PowerPoint",
+                "descripcion": "Herramienta para crear presentaciones visuales impactantes con animaciones y gráficos interactivos.",
+                "certificados": [
+                    "800000005",
+                    "800000006"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/powerpoint.svg",
+                    "dark": "/img/habilidades/powerpoint.svg",
+                    "solid-light": "/img/habilidades/powerpoint.svg",
+                    "solid-dark": "/img/habilidades/powerpoint.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Access",
+                "descripcion": "Herramienta de gestión de bases de datos para crear aplicaciones personalizadas y organizar datos.",
+                "certificados": [
+                    "800000009",
+                    "800000010"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/access.svg",
+                    "dark": "/img/habilidades/access.svg",
+                    "solid-light": "/img/habilidades/access.svg",
+                    "solid-dark": "/img/habilidades/access.svg"
+                }
+            },
+            {
+                "State": "activated",
+                "nombre": "Power BI",
+                "descripcion": "Herramienta de inteligencia de negocios para crear dashboards interactivos y analizar datos.",
+                "certificados": [
+                    "800000007",
+                    "800000008"
+                ],
+                "Img": {
+                    "light": "/img/habilidades/power-bi.svg",
+                    "dark": "/img/habilidades/power-bi.svg",
+                    "solid-light": "/img/habilidades/power-bi.svg",
+                    "solid-dark": "/img/habilidades/power-bi.svg"
+                }
+            }
+        ]
+    }
+}

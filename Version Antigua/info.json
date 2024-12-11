@@ -1,0 +1,78 @@
+{
+    "Datos": {
+        "Nombre": "Jhoan Carlos",
+        "Apellidos": "Condor Callupe",
+        "Edad": "22",
+        "Gmail": "jcarloscc1101@gmail.com"
+    },
+    "Servicios": {
+        "Desarrollo Web": {
+            "Descripcion": "Descripcion",
+            "Certificacion": "Certificas",
+            "Trabajos": [
+                "Trabajo 1",
+                "Trabajo 2",
+                "Trabajo 3"
+            ]
+        },
+        "Desarrollo Aplicaciones": {
+            "Descripcion": "Descripcion",
+            "Certificacion": "Certificas",
+            "Trabajos": [
+                "Trabajo 1",
+                "Trabajo 2",
+                "Trabajo 3"
+            ]
+        },
+        "Ciberseguridad": {
+            "Descripcion": "Descripcion",
+            "Certificacion": "Certificas",
+            "Trabajos": [
+                "Trabajo 1",
+                "Trabajo 2",
+                "Trabajo 3"
+            ]
+        },
+        "Gestion Empresarial": {
+            "Descripcion": "Descripcion",
+            "Certificacion": "Certificas",
+            "Trabajos": [
+                "Trabajo 1",
+                "Trabajo 2",
+                "Trabajo 3"
+            ]
+        }
+    },
+    "Proyectos": {
+        "Trabajo 1": {
+            "Portada": "src",
+            "Etiquetas": [
+                "Etiqueta 1",
+                "Etiqueta 2",
+                "Etiqueta 3"
+            ],
+            "Descripcion": "Descripcion",
+            "Link": "www"
+        },
+        "Trabajo 2": {
+            "Portada": "src",
+            "Etiquetas": [
+                "Etiqueta 1",
+                "Etiqueta 2",
+                "Etiqueta 3"
+            ],
+            "Descripcion": "Descripcion",
+            "Link": "www"
+        },
+        "Trabajo 3": {
+            "Portada": "src",
+            "Etiquetas": [
+                "Etiqueta 1",
+                "Etiqueta 2",
+                "Etiqueta 3"
+            ],
+            "Descripcion": "Descripcion",
+            "Link": "www"
+        }
+    }
+}

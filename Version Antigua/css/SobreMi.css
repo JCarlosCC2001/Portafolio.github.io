@@ -1,0 +1,19 @@
+#SobreMi{
+    margin: 50px;
+    display: flex;
+}
+
+#SobreMi img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50% 50%;
+    margin: auto;
+}
+
+#SobreMi section{
+    margin: 50px;
+}
+
+#SobreMi section h2,#SobreMi section h3,#SobreMi section p{
+    text-align: start;
+}

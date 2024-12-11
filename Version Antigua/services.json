@@ -1,0 +1,38 @@
+{
+    "Desarrollo Web": {
+        "Descripcion": "Desarrollo web es la creación y mantenimiento de sitios en Internet, involucrando programación, diseño visual y gestión de servidores para crear sitios funcionales y atractivos.",
+        "Certificacion": "Certificas",
+        "img": [
+            "Trabajo 1",
+            "Trabajo 2",
+            "Trabajo 3"
+        ]
+    },
+    "Desarrollo Aplicaciones": {
+        "Descripcion": "Desarrollo de aplicaciones implica crear software para dispositivos como computadoras, teléfonos móviles o tabletas.",
+        "Certificacion": "Certificas",
+        "img": [
+            "Trabajo 1",
+            "Trabajo 2",
+            "Trabajo 3"
+        ]
+    },
+    "Ciberseguridad": {
+        "Descripcion": "Ciberseguridad se enfoca en proteger sistemas, redes y datos contra amenazas digitales.",
+        "Certificacion": "Certificas",
+        "img": [
+            "Trabajo 1",
+            "Trabajo 2",
+            "Trabajo 3"
+        ]
+    },
+    "Gestion Empresarial": {
+        "Descripcion": "Gestión empresarial implica coordinar y supervisar actividades para lograr los objetivos de una organización.",
+        "Certificacion": "Certificas",
+        "img": [
+            "Trabajo 1",
+            "Trabajo 2",
+            "Trabajo 3"
+        ]
+    }
+}

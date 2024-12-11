@@ -1,0 +1,122 @@
+{
+    "Datos": {
+        "Nombre": "Jhoan Carlos Condor Callupe",
+        "F-N": {
+            "Año": "2001",
+            "Mes": "11",
+            "Dia": "13"
+        }
+    },
+    "Redes": {
+        "Discord": {
+            "State": "activated",
+            "Link": "https://discordapp.com/users/1279625598402039883",
+            "Img": {
+                "light": "/img/redes sociales/discord.svg",
+                "dark": "/img/redes sociales/discord.svg",
+                "solid-light": "/img/redes sociales/discord-light.svg",
+                "solid-dark": "/img/redes sociales/discord-dark.svg"
+            }
+        },
+        "Facebook": {
+            "State": "desactivated",
+            "Link": "https://www.facebook.com/jhoan.ccc/?locale=es_LA",
+            "Img": {
+                "light": "/img/redes sociales/facebook.svg",
+                "dark": "/img/redes sociales/facebook.svg",
+                "solid-light": "/img/redes sociales/facebook-solid-light.svg",
+                "solid-dark": "/img/redes sociales/facebook-solid-dark.svg"
+            }
+        },
+        "Github": {
+            "State": "activated",
+            "Link": "https://github.com/JCarlosCC2001",
+            "Img": {
+                "light": "/img/redes sociales/github-light.svg",
+                "dark": "/img/redes sociales/github-dark.svg",
+                "solid-light": "/img/redes sociales/github-solid-light.svg",
+                "solid-dark": "/img/redes sociales/github-solid-dark.svg"
+            }
+        },
+        "Gmail": {
+            "State": "activated",
+            "Link": "https://mail.google.com/",
+            "Img": {
+                "light": "/img/redes sociales/gmail.svg",
+                "dark": "/img/redes sociales/gmail.svg",
+                "solid-light": "/img/redes sociales/gmail-solid-light.svg",
+                "solid-dark": "/img/redes sociales/gmail-solid-dark.svg"
+            }
+        },
+        "Instagram": {
+            "State": "desactivated",
+            "Link": "https://www.instagram.com/carlos_13ccc/",
+            "Img": {
+                "light": "/img/redes sociales/instagram.svg",
+                "dark": "/img/redes sociales/instagram.svg",
+                "solid-light": "/img/redes sociales/instagram-solid-light.svg",
+                "solid-dark": "/img/redes sociales/instagram-solid-dark.svg"
+            }
+        },
+        "Linkedin": {
+            "State": "activated",
+            "Link": "https://www.linkedin.com/in/carlos-condor-callupe-56209728a/",
+            "Img": {
+                "light": "/img/redes sociales/linkedin.svg",
+                "dark": "/img/redes sociales/linkedin.svg",
+                "solid-light": "/img/redes sociales/linkedin-solid-light.svg",
+                "solid-dark": "/img/redes sociales/linkedin-solid-dark.svg"
+            }
+        },
+        "Pinterest": {
+            "State": "desactivated",
+            "Link": "https://www.pinterest.com/",
+            "Img": {
+                "light": "/img/redes sociales/pinterest-light.svg",
+                "dark": "/img/redes sociales/pinterest-dark.svg",
+                "solid-light": "/img/redes sociales/pinterest-solid-light.svg",
+                "solid-dark": "/img/redes sociales/pinterest-solid-dark.svg"
+            }
+        },
+        "Telegram": {
+            "State": "activated",
+            "Link": "https://t.me/CarlosCC001",
+            "Img": {
+                "light": "/img/redes sociales/telegram.svg",
+                "dark": "/img/redes sociales/telegram.svg",
+                "solid-light": "/img/redes sociales/telegram-solid-light.svg",
+                "solid-dark": "/img/redes sociales/telegram-solid-dark.svg"
+            }
+        },
+        "Twitter": {
+            "State": "desactivated",
+            "Link": "https://twitter.com/",
+            "Img": {
+                "light": "/img/redes sociales/twitter-light.svg",
+                "dark": "/img/redes sociales/twitter-dark.svg",
+                "solid-light": "/img/redes sociales/twitter-solid-light.svg",
+                "solid-dark": "/img/redes sociales/twitter-solid-dark.svg"
+            }
+        },
+        "Whatsapp": {
+            "State": "activated",
+            "Link": "https://wa.me/51958086874",
+            "Img": {
+                "light": "/img/redes sociales/whatsapp.svg",
+                "dark": "/img/redes sociales/whatsapp.svg",
+                "solid-light": "/img/redes sociales/whatsapp-solid-light.svg",
+                "solid-dark": "/img/redes sociales/whatsapp-solid-dark.svg"
+            }
+        },
+        "YouTube": {
+            "State": "desactivated",
+            "Link": "https://www.youtube.com/",
+            "Img": {
+                "light": "/img/redes sociales/youtube-light.svg",
+                "dark": "/img/redes sociales/youtube-dark.svg",
+                "solid-light": "/img/redes sociales/youtube-solid-light.svg",
+                "solid-dark": "/img/redes sociales/youtube-solid-dark.svg"
+            }
+        }
+    }
+}

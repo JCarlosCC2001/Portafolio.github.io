@@ -1,0 +1,166 @@
+{
+    "Desarrollo web": {
+        "name project web 1": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "name project web 2": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "name project web 3": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        }
+    },
+    "Desarrollo Aplicaciones": {
+        "name project app 1": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "name project app 2": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "name project app 3": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        }
+    },
+    "Ciberseguridad": {
+        "Seguridad 1": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "Seguridad 2": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "Seguridad 3": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        }
+    },
+    "Gestion Empresarial": {
+        "Gestion 1": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "Gestion 2": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        },
+        "Gestion 3": {
+            "img": "img/paginas/web.png",
+            "tipo": "Pagina web",
+            "elementos": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "opciones": {
+                "link": "www.nohay.com",
+                "doc": "www.tampocohay.com"
+            }
+        }
+    }
+}

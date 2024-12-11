@@ -1,0 +1,32 @@
+@import url('colores.css');
+
+.button {
+    padding: 12px 24px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+}
+
+.button-1 {
+    background-color: var(--light-100);
+    color: var(--light-950);
+    border: 0px solid transparent;
+    border-color: var(--light-500);
+}
+
+.button-1:hover {
+    background-color: var(--light-900);
+    color: var(--light-50);
+}
+
+.button-2 {
+    background-color: var(--light-900);
+    color: var(--light-50);
+    border: 1px solid transparent;
+    border-color: var(--light-500);
+}
+
+.button-2:hover {
+    background-color: var(--light-100);
+    color: var(--light-950);
+}

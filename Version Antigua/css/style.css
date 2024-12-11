@@ -1,0 +1,66 @@
+/*Paleta de colores*/
+:root {
+    --color-50: #ffffff;
+    --color-100: #efefef;
+    --color-200: #dcdcdc;
+    --color-300: #bdbdbd;
+    --color-400: #989898;
+    --color-500: #7c7c7c;
+    --color-600: #656565;
+    --color-700: #525252;
+    --color-800: #464646;
+    --color-900: #3d3d3d;
+    --color-950: #292929;
+}
+
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    color: var(--color-950);
+}
+
+body {
+    background-color: var(--color-100);
+}
+
+/*Titulo*/
+h1 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+/*SubTitulos*/
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2.75rem;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.75rem;
+}
+
+h5 {
+    font-size: 2.25rem;
+}
+
+h6 {
+    font-size: 2rem;
+}
+
+/*Texto*/
+p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    padding: 7.5px;
+}
+
+/*Botones*/
+button {
+    font-size: 1.5rem;
+}

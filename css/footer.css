@@ -1,0 +1,25 @@
+@import url('colores.css');
+
+footer {
+    position: relative;
+    max-width: 100vw;
+    background: var(--light-100);
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+footer .logo {
+    display: flex;
+}
+
+footer img {
+    width: 50px;
+}
+
+footer .redes {
+    display: flex;
+    gap: 25px;
+}

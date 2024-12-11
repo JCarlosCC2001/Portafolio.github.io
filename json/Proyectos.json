@@ -1,0 +1,54 @@
+[
+    {
+        "Nombre": "Full Ventas",
+        "Descripcion": "Descubre nuestras soluciones avanzadas para una gestión aún más eficiente gracias a nuestro webinar gratuito. No olvides ingresar al grupo de whatssap.",
+        "Pertenecia": "Consigue Ventas",
+        "Tipo": "Desarrollo de Web",
+        "Habilidades": [
+            "Wordpress"
+        ],
+        "Img": [
+            "img/proyectos/fullventas.png"
+        ],
+        "Link": "https://fullventas.consigueventas.com/"
+    },
+    {
+        "Nombre": "Agencia Online JF",
+        "Descripcion": "¡Posiciónate en las redes sociales generando contenido de alto impacto en poco tiempo!",
+        "Pertenecia": "Consigue Ventas",
+        "Tipo": "Desarrollo de Web",
+        "Habilidades": [
+            "Wordpress"
+        ],
+        "Img": [
+            "img/proyectos/soyjhoelfernandez.png"
+        ],
+        "Link": "https://soyjhoelfernandez.com/"
+    },
+    {
+        "Nombre": "Estudio Jurídico Carpio",
+        "Descripcion": "Abogados & Asociados contamos con un equipo de abogados expertos en diversas áreas del Derecho para proteger tus intereses.",
+        "Pertenecia": "Consigue Ventas",
+        "Tipo": "Desarrollo de Web",
+        "Habilidades": [
+            "Wordpress"
+        ],
+        "Img": [
+            "img/proyectos/estudiojuridicocarpio.png"
+        ],
+        "Link": "https://estudiojuridicocarpio.com/"
+    },
+    {
+        "Nombre": "AYC Cleaning Services",
+        "Descripcion": "Convirtiendo su hogar en un santuario de lujo y confort. Déjenos encargarnos de la limpieza mientras usted disfruta de la tranquilidad que se merece.",
+        "Pertenecia": "Consigue Ventas",
+        "Tipo": "Desarrollo de Web",
+        "Habilidades": [
+            "Wordpress"
+        ],
+        "Img": [
+            "img/proyectos/ayc-cleaningservices.png"
+        ],
+        "Link": "https://ayc-cleaningservices.com/"
+    }
+]

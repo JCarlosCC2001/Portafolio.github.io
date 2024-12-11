@@ -1,0 +1,86 @@
+[
+    {
+        "empresa": "Cineplanet",
+        "puesto": "Colaborador",
+        "fecha_inicio": "Dic 2021",
+        "fecha_fin": "Ago 2023",
+        "descripcion": "Atención al cliente, venta de boletos, y asistencia en salas durante funciones. Desarrollo de habilidades en servicio al cliente y trabajo en equipo.",
+        "habilidades": [
+            "Atención al Cliente",
+            "Trabajo en Equipo",
+            "Gestión de Tareas"
+        ],
+        "areas_contribuye": [
+            "Atención al Cliente",
+            "Operaciones"
+        ],
+        "Img": [
+            "img/experiencia/Cineplanet.png",
+            "img/experiencia/Cineplanet.png"
+        ]
+    },
+    {
+        "empresa": "Papa John's",
+        "puesto": "Entrenador",
+        "fecha_inicio": "Ago 2023",
+        "fecha_fin": "Ago 2024",
+        "descripcion": "Capacitación de nuevos empleados en procesos operativos, preparación de productos y estándares de calidad. Gestión de equipos y liderazgo en operaciones diarias.",
+        "habilidades": [
+            "Liderazgo",
+            "Capacitación",
+            "Gestión de Operaciones"
+        ],
+        "areas_contribuye": [
+            "Gestión de Personal",
+            "Calidad de Servicio"
+        ],
+        "Img": [
+            "img/experiencia/Papa-Johns.png",
+            "img/experiencia/Papa-Johns.png"
+        ]
+    },
+    {
+        "empresa": "COMSITEC S.A.C.",
+        "puesto": "Desarrollador Web",
+        "fecha_inicio": "Set 2023",
+        "fecha_fin": "Dic 2023",
+        "descripcion": "He adquirido experiencia como practicante de ingeniería de sistemas en la empresa de venta de computadoras COMSITEC S.A.C. Durante mi tiempo allí, participé activamente en labores relacionadas con la mejora de la página web y la actualización de la base de datos.",
+        "habilidades": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "React"
+        ],
+        "areas_contribuye": [
+            "Desarrollo Web",
+            "Redes"
+        ],
+        "Img": [
+            "img/experiencia/Comsitec.png",
+            "img/experiencia/Comsitec.png"
+        ]
+    },
+    {
+        "empresa": "Consigue Ventas",
+        "puesto": "Desarrollador Web",
+        "fecha_inicio": "Ago 2024",
+        "fecha_fin": "Dic 2024",
+        "descripcion": "Como practicante en el área de desarrollo web de Grupo Consigueventas, adquirí una valiosa experiencia en la creación y optimización de sitios web utilizando WordPress. En este rol, no solo brindé apoyo en el desarrollo de páginas web, sino que también lideré la construcción de otras, siempre enfocándome en garantizar la adaptabilidad en diversos dispositivos y asegurando una experiencia de usuario coherente y eficiente. Implementé mejoras en el diseño y funcionalidad, contribuyendo al éxito de los proyectos y a la satisfacción de los usuarios.",
+        "habilidades": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Diseño Responsive",
+            "Marketing Digital"
+        ],
+        "areas_contribuye": [
+            "Desarrollo Web",
+            "Marketing Digital"
+        ],
+        "Img": [
+            "img/experiencia/Consigue-Ventas.png",
+            "img/experiencia/Consigue-Ventas.png"
+        ]
+    }
+]

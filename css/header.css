@@ -1,0 +1,28 @@
+@import url('colores.css');
+
+header {
+    width:100vw;
+    background: var(--light-100);
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img {
+    height: 50px;
+    padding: 15px 20px;
+}
+header nav {
+    display: flex;
+    gap: 50px;
+    padding: 0 50px;
+}
+
+header li {
+    display: inline;
+}
+
+a {
+    color: var(--light-950);
+}

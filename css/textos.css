@@ -1,0 +1,143 @@
+@font-face {
+  font-family: TrenchSlab;
+  src: url(/fuentes/TrenchSlab_Complete/TrenchSlab_Complete/Fonts/OTF/TrenchSlab-Medium.otf);
+}
+
+@font-face {
+  font-family: GeneralSans-Regular;
+  src: url(/fuentes/GeneralSans_Complete/GeneralSans_Complete/Fonts/OTF/GeneralSans-Regular.otf)
+}
+
+/*FUENTES*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "TrenchSlab";
+  padding: 0;
+  margin: 0;
+}
+
+p,
+span,
+button {
+  font-family: "GeneralSans-Regular";
+  padding: 0;
+  margin: 0;
+}
+
+/*TAMAÑOS ESCRITORIO*/
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  text-align: justify;
+}
+
+span {
+  font-size: 0.9rem;
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: justify;
+}
+
+button {
+  font-size: 1rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*TAMAÑOS TABLET*/
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  h5 {
+    font-size: 1.125rem;
+  }
+
+  h6 {
+    font-size: 0.875rem;
+  }
+
+  p {
+    font-size: 0.875rem;
+  }
+
+  span {
+    font-size: 0.75rem;
+  }
+}
+
+/*TAMAÑOS MOVIL*/
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
+  h4 {
+    font-size: 1.125rem;
+  }
+
+  h5 {
+    font-size: 1rem;
+  }
+
+  h6,
+  p,
+  span {
+    font-size: 0.875rem;
+  }
+}

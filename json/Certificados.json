@@ -1,0 +1,33 @@
+[
+    {
+        "ID": 200000001,
+        "Nombre": "Desarrollo de Software",
+        "Descripcion": "Certificación en programación y desarrollo de software.",
+        "FechaObtenido": "2022-05-10",
+        "Vigencia": "Indefinido",
+        "Contribuye": [
+            "Desarrollo de Software"
+        ]
+    },
+    {
+        "ID": 200000002,
+        "Nombre": "Seguridad en Redes",
+        "Descripcion": "Certificación en técnicas de protección de redes.",
+        "FechaObtenido": "2021-08-15",
+        "Vigencia": "2 años",
+        "Contribuye": [
+            "Ciberseguridad"
+        ]
+    },
+    {
+        "ID": 200000003,
+        "Nombre": "Python para Ciencia de Datos",
+        "Descripcion": "Certificación en el uso de Python para análisis y ciencia de datos.",
+        "FechaObtenido": "2023-03-20",
+        "Vigencia": "Indefinido",
+        "Contribuye": [
+            "Inteligencia Artificial",
+            "Análisis de Datos"
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+#CV{
+    margin: 50px;
+    display: flex;
+}
+
+#CV section{
+    width: 450px;
+    background-color: var(--color-200);
+    padding: 10px;
+    margin: 10px 10px;
+    border-radius: 15px;
+}
+
+#CV .informatica{
+    text-align: center;
+}
+
+#CV .informatica img{
+    max-height: 75px;
+    max-width: 75px;
+}
