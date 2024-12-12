@@ -1,4 +1,4 @@
-fetch('/json/Info.json')
+fetch('./json/Info.json')
     .then(response => response.ok ? response.json() : Promise.reject('Error al cargar el archivo JSON'))
     .then(({ Redes }) => {
         const container = document.querySelector('.contactame');
