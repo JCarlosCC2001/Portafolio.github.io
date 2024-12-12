@@ -6,7 +6,7 @@ fetch('./json/Info.json')
         // Generar los botones principales con enlaces
         const areasHTML = `
             <button class="circle button-active">
-                <img class="icon" src="/img/svg/person-light.svg" alt="Icono de persona">
+                <img class="icon" src="img/svg/person-light.svg" alt="Icono de persona">
             </button>
             ${Object.values(Redes)
                 .filter(red => red.State === 'activated')
