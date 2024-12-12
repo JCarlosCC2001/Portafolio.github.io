@@ -1,11 +1,11 @@
 @font-face {
   font-family: TrenchSlab;
-  src: url(/fuentes/TrenchSlab_Complete/TrenchSlab_Complete/Fonts/OTF/TrenchSlab-Medium.otf);
+  src: url(./fuentes/TrenchSlab_Complete/TrenchSlab_Complete/Fonts/OTF/TrenchSlab-Medium.otf);
 }
 
 @font-face {
   font-family: GeneralSans-Regular;
-  src: url(/fuentes/GeneralSans_Complete/GeneralSans_Complete/Fonts/OTF/GeneralSans-Regular.otf)
+  src: url(./fuentes/GeneralSans_Complete/GeneralSans_Complete/Fonts/OTF/GeneralSans-Regular.otf)
 }
 
 /*FUENTES*/
