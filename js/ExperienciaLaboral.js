@@ -13,7 +13,7 @@ fetch('./json/ExperienciaLaboral.json')
         data.forEach(exp => {
             areasHTML += `
                 <div class="container-big container-solid-1 card">
-                    <img src="/${exp.Img[0]}">
+                    <img src="${exp.Img[0]}">
                     <h5>${exp.puesto}</h5>
                     <h4>${exp.empresa}</h4>
                     <span>${exp.fecha_inicio} – ${exp.fecha_fin}</span>
