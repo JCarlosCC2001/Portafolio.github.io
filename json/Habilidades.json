@@ -11,10 +11,10 @@
                     "300000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/python.svg",
-                    "dark": "/img/habilidades/python.svg",
-                    "solid-light": "/img/habilidades/python.svg",
-                    "solid-dark": "/img/habilidades/python.svg"
+                    "light": "img/habilidades/python.svg",
+                    "dark": "img/habilidades/python.svg",
+                    "solid-light": "img/habilidades/python.svg",
+                    "solid-dark": "img/habilidades/python.svg"
                 }
             },
             {
@@ -25,10 +25,10 @@
                     "300000004"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/cplusplus.svg",
-                    "dark": "/img/habilidades/cplusplus.svg",
-                    "solid-light": "/img/habilidades/cplusplus.svg",
-                    "solid-dark": "/img/habilidades/cplusplus.svg"
+                    "light": "img/habilidades/cplusplus.svg",
+                    "dark": "img/habilidades/cplusplus.svg",
+                    "solid-light": "img/habilidades/cplusplus.svg",
+                    "solid-dark": "img/habilidades/cplusplus.svg"
                 }
             },
             {
@@ -39,10 +39,10 @@
                     "300000003"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/java.svg",
-                    "dark": "/img/habilidades/java.svg",
-                    "solid-light": "/img/habilidades/java.svg",
-                    "solid-dark": "/img/habilidades/java.svg"
+                    "light": "img/habilidades/java.svg",
+                    "dark": "img/habilidades/java.svg",
+                    "solid-light": "img/habilidades/java.svg",
+                    "solid-dark": "img/habilidades/java.svg"
                 }
             },
             {
@@ -53,10 +53,10 @@
                     "300000005"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/javascript.svg",
-                    "dark": "/img/habilidades/javascript.svg",
-                    "solid-light": "/img/habilidades/javascript.svg",
-                    "solid-dark": "/img/habilidades/javascript.svg"
+                    "light": "img/habilidades/javascript.svg",
+                    "dark": "img/habilidades/javascript.svg",
+                    "solid-light": "img/habilidades/javascript.svg",
+                    "solid-dark": "img/habilidades/javascript.svg"
                 }
             },
             {
@@ -67,10 +67,10 @@
                     "300000006"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ruby.svg",
-                    "dark": "/img/habilidades/ruby.svg",
-                    "solid-light": "/img/habilidades/ruby.svg",
-                    "solid-dark": "/img/habilidades/ruby.svg"
+                    "light": "img/habilidades/ruby.svg",
+                    "dark": "img/habilidades/ruby.svg",
+                    "solid-light": "img/habilidades/ruby.svg",
+                    "solid-dark": "img/habilidades/ruby.svg"
                 }
             },
             {
@@ -81,10 +81,10 @@
                     "300000008"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/swift.svg",
-                    "dark": "/img/habilidades/swift.svg",
-                    "solid-light": "/img/habilidades/swift.svg",
-                    "solid-dark": "/img/habilidades/swift.svg"
+                    "light": "img/habilidades/swift.svg",
+                    "dark": "img/habilidades/swift.svg",
+                    "solid-light": "img/habilidades/swift.svg",
+                    "solid-dark": "img/habilidades/swift.svg"
                 }
             },
             {
@@ -95,10 +95,10 @@
                     "300000009"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/go.svg",
-                    "dark": "/img/habilidades/go.svg",
-                    "solid-light": "/img/habilidades/go.svg",
-                    "solid-dark": "/img/habilidades/go.svg"
+                    "light": "img/habilidades/go.svg",
+                    "dark": "img/habilidades/go.svg",
+                    "solid-light": "img/habilidades/go.svg",
+                    "solid-dark": "img/habilidades/go.svg"
                 }
             },
             {
@@ -109,10 +109,10 @@
                     "300000010"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/kotlin.svg",
-                    "dark": "/img/habilidades/kotlin.svg",
-                    "solid-light": "/img/habilidades/kotlin.svg",
-                    "solid-dark": "/img/habilidades/kotlin.svg"
+                    "light": "img/habilidades/kotlin.svg",
+                    "dark": "img/habilidades/kotlin.svg",
+                    "solid-light": "img/habilidades/kotlin.svg",
+                    "solid-dark": "img/habilidades/kotlin.svg"
                 }
             },
             {
@@ -123,10 +123,10 @@
                     "300000011"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/typescript.svg",
-                    "dark": "/img/habilidades/typescript.svg",
-                    "solid-light": "/img/habilidades/typescript.svg",
-                    "solid-dark": "/img/habilidades/typescript.svg"
+                    "light": "img/habilidades/typescript.svg",
+                    "dark": "img/habilidades/typescript.svg",
+                    "solid-light": "img/habilidades/typescript.svg",
+                    "solid-dark": "img/habilidades/typescript.svg"
                 }
             },
             {
@@ -137,10 +137,10 @@
                     "300000007"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/php.svg",
-                    "dark": "/img/habilidades/php.svg",
-                    "solid-light": "/img/habilidades/php.svg",
-                    "solid-dark": "/img/habilidades/php.svg"
+                    "light": "img/habilidades/php.svg",
+                    "dark": "img/habilidades/php.svg",
+                    "solid-light": "img/habilidades/php.svg",
+                    "solid-dark": "img/habilidades/php.svg"
                 }
             }
         ]
@@ -156,10 +156,10 @@
                     "300000047"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/react.svg",
-                    "dark": "/img/habilidades/react.svg",
-                    "solid-light": "/img/habilidades/react.svg",
-                    "solid-dark": "/img/habilidades/react.svg"
+                    "light": "img/habilidades/react.svg",
+                    "dark": "img/habilidades/react.svg",
+                    "solid-light": "img/habilidades/react.svg",
+                    "solid-dark": "img/habilidades/react.svg"
                 }
             },
             {
@@ -170,10 +170,10 @@
                     "300000048"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/vue.svg",
-                    "dark": "/img/habilidades/vue.svg",
-                    "solid-light": "/img/habilidades/vue.svg",
-                    "solid-dark": "/img/habilidades/vue.svg"
+                    "light": "img/habilidades/vue.svg",
+                    "dark": "img/habilidades/vue.svg",
+                    "solid-light": "img/habilidades/vue.svg",
+                    "solid-dark": "img/habilidades/vue.svg"
                 }
             },
             {
@@ -184,10 +184,10 @@
                     "300000049"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/angular.svg",
-                    "dark": "/img/habilidades/angular.svg",
-                    "solid-light": "/img/habilidades/angular.svg",
-                    "solid-dark": "/img/habilidades/angular.svg"
+                    "light": "img/habilidades/angular.svg",
+                    "dark": "img/habilidades/angular.svg",
+                    "solid-light": "img/habilidades/angular.svg",
+                    "solid-dark": "img/habilidades/angular.svg"
                 }
             },
             {
@@ -198,10 +198,10 @@
                     "300000050"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/svelte.svg",
-                    "dark": "/img/habilidades/svelte.svg",
-                    "solid-light": "/img/habilidades/svelte.svg",
-                    "solid-dark": "/img/habilidades/svelte.svg"
+                    "light": "img/habilidades/svelte.svg",
+                    "dark": "img/habilidades/svelte.svg",
+                    "solid-light": "img/habilidades/svelte.svg",
+                    "solid-dark": "img/habilidades/svelte.svg"
                 }
             },
             {
@@ -212,10 +212,10 @@
                     "300000051"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/nodejs.svg",
-                    "dark": "/img/habilidades/nodejs.svg",
-                    "solid-light": "/img/habilidades/nodejs.svg",
-                    "solid-dark": "/img/habilidades/nodejs.svg"
+                    "light": "img/habilidades/nodejs.svg",
+                    "dark": "img/habilidades/nodejs.svg",
+                    "solid-light": "img/habilidades/nodejs.svg",
+                    "solid-dark": "img/habilidades/nodejs.svg"
                 }
             },
             {
@@ -226,10 +226,10 @@
                     "300000052"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/express.svg",
-                    "dark": "/img/habilidades/express.svg",
-                    "solid-light": "/img/habilidades/express.svg",
-                    "solid-dark": "/img/habilidades/express.svg"
+                    "light": "img/habilidades/express.svg",
+                    "dark": "img/habilidades/express.svg",
+                    "solid-light": "img/habilidades/express.svg",
+                    "solid-dark": "img/habilidades/express.svg"
                 }
             },
             {
@@ -240,10 +240,10 @@
                     "300000053"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/django.svg",
-                    "dark": "/img/habilidades/django.svg",
-                    "solid-light": "/img/habilidades/django.svg",
-                    "solid-dark": "/img/habilidades/django.svg"
+                    "light": "img/habilidades/django.svg",
+                    "dark": "img/habilidades/django.svg",
+                    "solid-light": "img/habilidades/django.svg",
+                    "solid-dark": "img/habilidades/django.svg"
                 }
             },
             {
@@ -254,10 +254,10 @@
                     "300000054"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/flask.svg",
-                    "dark": "/img/habilidades/flask.svg",
-                    "solid-light": "/img/habilidades/flask.svg",
-                    "solid-dark": "/img/habilidades/flask.svg"
+                    "light": "img/habilidades/flask.svg",
+                    "dark": "img/habilidades/flask.svg",
+                    "solid-light": "img/habilidades/flask.svg",
+                    "solid-dark": "img/habilidades/flask.svg"
                 }
             },
             {
@@ -268,10 +268,10 @@
                     "300000055"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/springboot.svg",
-                    "dark": "/img/habilidades/springboot.svg",
-                    "solid-light": "/img/habilidades/springboot.svg",
-                    "solid-dark": "/img/habilidades/springboot.svg"
+                    "light": "img/habilidades/springboot.svg",
+                    "dark": "img/habilidades/springboot.svg",
+                    "solid-light": "img/habilidades/springboot.svg",
+                    "solid-dark": "img/habilidades/springboot.svg"
                 }
             },
             {
@@ -282,10 +282,10 @@
                     "300000056"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/rails.svg",
-                    "dark": "/img/habilidades/rails.svg",
-                    "solid-light": "/img/habilidades/rails.svg",
-                    "solid-dark": "/img/habilidades/rails.svg"
+                    "light": "img/habilidades/rails.svg",
+                    "dark": "img/habilidades/rails.svg",
+                    "solid-light": "img/habilidades/rails.svg",
+                    "solid-dark": "img/habilidades/rails.svg"
                 }
             },
             {
@@ -296,10 +296,10 @@
                     "300000057"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/laravel.svg",
-                    "dark": "/img/habilidades/laravel.svg",
-                    "solid-light": "/img/habilidades/laravel.svg",
-                    "solid-dark": "/img/habilidades/laravel.svg"
+                    "light": "img/habilidades/laravel.svg",
+                    "dark": "img/habilidades/laravel.svg",
+                    "solid-light": "img/habilidades/laravel.svg",
+                    "solid-dark": "img/habilidades/laravel.svg"
                 }
             }
         ]
@@ -315,10 +315,10 @@
                     "300000038"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mysql.svg",
-                    "dark": "/img/habilidades/mysql.svg",
-                    "solid-light": "/img/habilidades/mysql.svg",
-                    "solid-dark": "/img/habilidades/mysql.svg"
+                    "light": "img/habilidades/mysql.svg",
+                    "dark": "img/habilidades/mysql.svg",
+                    "solid-light": "img/habilidades/mysql.svg",
+                    "solid-dark": "img/habilidades/mysql.svg"
                 }
             },
             {
@@ -329,10 +329,10 @@
                     "300000039"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/postgresql.svg",
-                    "dark": "/img/habilidades/postgresql.svg",
-                    "solid-light": "/img/habilidades/postgresql.svg",
-                    "solid-dark": "/img/habilidades/postgresql.svg"
+                    "light": "img/habilidades/postgresql.svg",
+                    "dark": "img/habilidades/postgresql.svg",
+                    "solid-light": "img/habilidades/postgresql.svg",
+                    "solid-dark": "img/habilidades/postgresql.svg"
                 }
             },
             {
@@ -343,10 +343,10 @@
                     "300000040"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/sqlserver.svg",
-                    "dark": "/img/habilidades/sqlserver.svg",
-                    "solid-light": "/img/habilidades/sqlserver.svg",
-                    "solid-dark": "/img/habilidades/sqlserver.svg"
+                    "light": "img/habilidades/sqlserver.svg",
+                    "dark": "img/habilidades/sqlserver.svg",
+                    "solid-light": "img/habilidades/sqlserver.svg",
+                    "solid-dark": "img/habilidades/sqlserver.svg"
                 }
             },
             {
@@ -357,10 +357,10 @@
                     "300000041"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mongodb.svg",
-                    "dark": "/img/habilidades/mongodb.svg",
-                    "solid-light": "/img/habilidades/mongodb.svg",
-                    "solid-dark": "/img/habilidades/mongodb.svg"
+                    "light": "img/habilidades/mongodb.svg",
+                    "dark": "img/habilidades/mongodb.svg",
+                    "solid-light": "img/habilidades/mongodb.svg",
+                    "solid-dark": "img/habilidades/mongodb.svg"
                 }
             },
             {
@@ -371,10 +371,10 @@
                     "300000042"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/cassandra.svg",
-                    "dark": "/img/habilidades/cassandra.svg",
-                    "solid-light": "/img/habilidades/cassandra.svg",
-                    "solid-dark": "/img/habilidades/cassandra.svg"
+                    "light": "img/habilidades/cassandra.svg",
+                    "dark": "img/habilidades/cassandra.svg",
+                    "solid-light": "img/habilidades/cassandra.svg",
+                    "solid-dark": "img/habilidades/cassandra.svg"
                 }
             }
         ]
@@ -390,10 +390,10 @@
                     "300000016"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/linux.svg",
-                    "dark": "/img/habilidades/linux.svg",
-                    "solid-light": "/img/habilidades/linux.svg",
-                    "solid-dark": "/img/habilidades/linux.svg"
+                    "light": "img/habilidades/linux.svg",
+                    "dark": "img/habilidades/linux.svg",
+                    "solid-light": "img/habilidades/linux.svg",
+                    "solid-dark": "img/habilidades/linux.svg"
                 }
             },
             {
@@ -404,10 +404,10 @@
                     "300000017"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ubuntu.svg",
-                    "dark": "/img/habilidades/ubuntu.svg",
-                    "solid-light": "/img/habilidades/ubuntu.svg",
-                    "solid-dark": "/img/habilidades/ubuntu.svg"
+                    "light": "img/habilidades/ubuntu.svg",
+                    "dark": "img/habilidades/ubuntu.svg",
+                    "solid-light": "img/habilidades/ubuntu.svg",
+                    "solid-dark": "img/habilidades/ubuntu.svg"
                 }
             },
             {
@@ -418,10 +418,10 @@
                     "300000018"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/centos.svg",
-                    "dark": "/img/habilidades/centos.svg",
-                    "solid-light": "/img/habilidades/centos.svg",
-                    "solid-dark": "/img/habilidades/centos.svg"
+                    "light": "img/habilidades/centos.svg",
+                    "dark": "img/habilidades/centos.svg",
+                    "solid-light": "img/habilidades/centos.svg",
+                    "solid-dark": "img/habilidades/centos.svg"
                 }
             },
             {
@@ -432,10 +432,10 @@
                     "300000019"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/debian.svg",
-                    "dark": "/img/habilidades/debian.svg",
-                    "solid-light": "/img/habilidades/debian.svg",
-                    "solid-dark": "/img/habilidades/debian.svg"
+                    "light": "img/habilidades/debian.svg",
+                    "dark": "img/habilidades/debian.svg",
+                    "solid-light": "img/habilidades/debian.svg",
+                    "solid-dark": "img/habilidades/debian.svg"
                 }
             },
             {
@@ -446,10 +446,10 @@
                     "300000020"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/fedora.svg",
-                    "dark": "/img/habilidades/fedora.svg",
-                    "solid-light": "/img/habilidades/fedora.svg",
-                    "solid-dark": "/img/habilidades/fedora.svg"
+                    "light": "img/habilidades/fedora.svg",
+                    "dark": "img/habilidades/fedora.svg",
+                    "solid-light": "img/habilidades/fedora.svg",
+                    "solid-dark": "img/habilidades/fedora.svg"
                 }
             },
             {
@@ -460,10 +460,10 @@
                     "300000021"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/windows-server.svg",
-                    "dark": "/img/habilidades/windows-server.svg",
-                    "solid-light": "/img/habilidades/windows-server.svg",
-                    "solid-dark": "/img/habilidades/windows-server.svg"
+                    "light": "img/habilidades/windows-server.svg",
+                    "dark": "img/habilidades/windows-server.svg",
+                    "solid-light": "img/habilidades/windows-server.svg",
+                    "solid-dark": "img/habilidades/windows-server.svg"
                 }
             },
             {
@@ -474,10 +474,10 @@
                     "300000022"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/macos.svg",
-                    "dark": "/img/habilidades/macos.svg",
-                    "solid-light": "/img/habilidades/macos.svg",
-                    "solid-dark": "/img/habilidades/macos.svg"
+                    "light": "img/habilidades/macos.svg",
+                    "dark": "img/habilidades/macos.svg",
+                    "solid-light": "img/habilidades/macos.svg",
+                    "solid-dark": "img/habilidades/macos.svg"
                 }
             },
             {
@@ -488,10 +488,10 @@
                     "300000023"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/android.svg",
-                    "dark": "/img/habilidades/android.svg",
-                    "solid-light": "/img/habilidades/android.svg",
-                    "solid-dark": "/img/habilidades/android.svg"
+                    "light": "img/habilidades/android.svg",
+                    "dark": "img/habilidades/android.svg",
+                    "solid-light": "img/habilidades/android.svg",
+                    "solid-dark": "img/habilidades/android.svg"
                 }
             },
             {
@@ -502,10 +502,10 @@
                     "300000024"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ios.svg",
-                    "dark": "/img/habilidades/ios.svg",
-                    "solid-light": "/img/habilidades/ios.svg",
-                    "solid-dark": "/img/habilidades/ios.svg"
+                    "light": "img/habilidades/ios.svg",
+                    "dark": "img/habilidades/ios.svg",
+                    "solid-light": "img/habilidades/ios.svg",
+                    "solid-dark": "img/habilidades/ios.svg"
                 }
             }
         ]
@@ -521,10 +521,10 @@
                     "300000012"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/git.svg",
-                    "dark": "/img/habilidades/git.svg",
-                    "solid-light": "/img/habilidades/git.svg",
-                    "solid-dark": "/img/habilidades/git.svg"
+                    "light": "img/habilidades/git.svg",
+                    "dark": "img/habilidades/git.svg",
+                    "solid-light": "img/habilidades/git.svg",
+                    "solid-dark": "img/habilidades/git.svg"
                 }
             },
             {
@@ -535,10 +535,10 @@
                     "300000013"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/github-light.svg",
-                    "dark": "/img/habilidades/github-dark.svg",
-                    "solid-light": "/img/habilidades/github-solid-light.svg",
-                    "solid-dark": "/img/habilidades/github-solid-dark.svg"
+                    "light": "img/habilidades/github-light.svg",
+                    "dark": "img/habilidades/github-dark.svg",
+                    "solid-light": "img/habilidades/github-solid-light.svg",
+                    "solid-dark": "img/habilidades/github-solid-dark.svg"
                 }
             },
             {
@@ -549,10 +549,10 @@
                     "300000014"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/gitlab.svg",
-                    "dark": "/img/habilidades/gitlab.svg",
-                    "solid-light": "/img/habilidades/gitlab.svg",
-                    "solid-dark": "/img/habilidades/gitlab.svg"
+                    "light": "img/habilidades/gitlab.svg",
+                    "dark": "img/habilidades/gitlab.svg",
+                    "solid-light": "img/habilidades/gitlab.svg",
+                    "solid-dark": "img/habilidades/gitlab.svg"
                 }
             },
             {
@@ -563,10 +563,10 @@
                     "300000015"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/bitbucket.svg",
-                    "dark": "/img/habilidades/bitbucket.svg",
-                    "solid-light": "/img/habilidades/bitbucket.svg",
-                    "solid-dark": "/img/habilidades/bitbucket.svg"
+                    "light": "img/habilidades/bitbucket.svg",
+                    "dark": "img/habilidades/bitbucket.svg",
+                    "solid-light": "img/habilidades/bitbucket.svg",
+                    "solid-dark": "img/habilidades/bitbucket.svg"
                 }
             },
             {
@@ -577,10 +577,10 @@
                     "300000058"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/docker.svg",
-                    "dark": "/img/habilidades/docker.svg",
-                    "solid-light": "/img/habilidades/docker.svg",
-                    "solid-dark": "/img/habilidades/docker.svg"
+                    "light": "img/habilidades/docker.svg",
+                    "dark": "img/habilidades/docker.svg",
+                    "solid-light": "img/habilidades/docker.svg",
+                    "solid-dark": "img/habilidades/docker.svg"
                 }
             },
             {
@@ -591,10 +591,10 @@
                     "300000043"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/visual-studio-code.svg",
-                    "dark": "/img/habilidades/visual-studio.svg",
-                    "solid-light": "/img/habilidades/visual-studio.svg",
-                    "solid-dark": "/img/habilidades/visual-studio.svg"
+                    "light": "img/habilidades/visual-studio-code.svg",
+                    "dark": "img/habilidades/visual-studio.svg",
+                    "solid-light": "img/habilidades/visual-studio.svg",
+                    "solid-dark": "img/habilidades/visual-studio.svg"
                 }
             },
             {
@@ -605,10 +605,10 @@
                     "300000071"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/postman.svg",
-                    "dark": "/img/habilidades/postman.svg",
-                    "solid-light": "/img/habilidades/postman.svg",
-                    "solid-dark": "/img/habilidades/postman.svg"
+                    "light": "img/habilidades/postman.svg",
+                    "dark": "img/habilidades/postman.svg",
+                    "solid-light": "img/habilidades/postman.svg",
+                    "solid-dark": "img/habilidades/postman.svg"
                 }
             },
             {
@@ -620,10 +620,10 @@
                     "400000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/xampp.svg",
-                    "dark": "/img/habilidades/xampp.svg",
-                    "solid-light": "/img/habilidades/xampp.svg",
-                    "solid-dark": "/img/habilidades/xampp.svg"
+                    "light": "img/habilidades/xampp.svg",
+                    "dark": "img/habilidades/xampp.svg",
+                    "solid-light": "img/habilidades/xampp.svg",
+                    "solid-dark": "img/habilidades/xampp.svg"
                 }
             },
             {
@@ -635,10 +635,10 @@
                     "900000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/netbeans.svg",
-                    "dark": "/img/habilidades/netbeans.svg",
-                    "solid-light": "/img/habilidades/netbeans.svg",
-                    "solid-dark": "/img/habilidades/netbeans.svg"
+                    "light": "img/habilidades/netbeans.svg",
+                    "dark": "img/habilidades/netbeans.svg",
+                    "solid-light": "img/habilidades/netbeans.svg",
+                    "solid-dark": "img/habilidades/netbeans.svg"
                 }
             }
         ]
@@ -655,10 +655,10 @@
                     "100000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/html.svg",
-                    "dark": "/img/habilidades/html.svg",
-                    "solid-light": "/img/habilidades/html.svg",
-                    "solid-dark": "/img/habilidades/html.svg"
+                    "light": "img/habilidades/html.svg",
+                    "dark": "img/habilidades/html.svg",
+                    "solid-light": "img/habilidades/html.svg",
+                    "solid-dark": "img/habilidades/html.svg"
                 }
             },
             {
@@ -670,10 +670,10 @@
                     "200000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/css.svg",
-                    "dark": "/img/habilidades/css.svg",
-                    "solid-light": "/img/habilidades/css.svg",
-                    "solid-dark": "/img/habilidades/css.svg"
+                    "light": "img/habilidades/css.svg",
+                    "dark": "img/habilidades/css.svg",
+                    "solid-light": "img/habilidades/css.svg",
+                    "solid-dark": "img/habilidades/css.svg"
                 }
             },
             {
@@ -685,10 +685,10 @@
                     "600000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/wordpress.svg",
-                    "dark": "/img/habilidades/wordpress.svg",
-                    "solid-light": "/img/habilidades/wordpress.svg",
-                    "solid-dark": "/img/habilidades/wordpress.svg"
+                    "light": "img/habilidades/wordpress.svg",
+                    "dark": "img/habilidades/wordpress.svg",
+                    "solid-light": "img/habilidades/wordpress.svg",
+                    "solid-dark": "img/habilidades/wordpress.svg"
                 }
             },
             {
@@ -700,10 +700,10 @@
                     "700000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/hostinger-solid-light.svg",
-                    "dark": "/img/habilidades/hostinger-solid-dark.svg",
-                    "solid-light": "/img/habilidades/hostinger-solid-light.svg",
-                    "solid-dark": "/img/habilidades/hostinger-solid-dark.svg"
+                    "light": "img/habilidades/hostinger-solid-light.svg",
+                    "dark": "img/habilidades/hostinger-solid-dark.svg",
+                    "solid-light": "img/habilidades/hostinger-solid-light.svg",
+                    "solid-dark": "img/habilidades/hostinger-solid-dark.svg"
                 }
             }
         ]
@@ -719,10 +719,10 @@
                     "300000004"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/cplusplus.svg",
-                    "dark": "/img/habilidades/cplusplus.svg",
-                    "solid-light": "/img/habilidades/cplusplus.svg",
-                    "solid-dark": "/img/habilidades/cplusplus.svg"
+                    "light": "img/habilidades/cplusplus.svg",
+                    "dark": "img/habilidades/cplusplus.svg",
+                    "solid-light": "img/habilidades/cplusplus.svg",
+                    "solid-dark": "img/habilidades/cplusplus.svg"
                 }
             },
             {
@@ -733,10 +733,10 @@
                     "300000007"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/php.svg",
-                    "dark": "/img/habilidades/php.svg",
-                    "solid-light": "/img/habilidades/php.svg",
-                    "solid-dark": "/img/habilidades/php.svg"
+                    "light": "img/habilidades/php.svg",
+                    "dark": "img/habilidades/php.svg",
+                    "solid-light": "img/habilidades/php.svg",
+                    "solid-dark": "img/habilidades/php.svg"
                 }
             }
         ]
@@ -752,10 +752,10 @@
                     "300000074"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/kali-linux.svg",
-                    "dark": "/img/habilidades/kali-linux.svg",
-                    "solid-light": "/img/habilidades/kali-linux.svg",
-                    "solid-dark": "/img/habilidades/kali-linux.svg"
+                    "light": "img/habilidades/kali-linux.svg",
+                    "dark": "img/habilidades/kali-linux.svg",
+                    "solid-light": "img/habilidades/kali-linux.svg",
+                    "solid-dark": "img/habilidades/kali-linux.svg"
                 }
             },
             {
@@ -766,10 +766,10 @@
                     "300000075"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/owasp-zap.svg",
-                    "dark": "/img/habilidades/owasp-zap.svg",
-                    "solid-light": "/img/habilidades/owasp-zap.svg",
-                    "solid-dark": "/img/habilidades/owasp-zap.svg"
+                    "light": "img/habilidades/owasp-zap.svg",
+                    "dark": "img/habilidades/owasp-zap.svg",
+                    "solid-light": "img/habilidades/owasp-zap.svg",
+                    "solid-dark": "img/habilidades/owasp-zap.svg"
                 }
             },
             {
@@ -780,10 +780,10 @@
                     "300000076"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/wireshark.svg",
-                    "dark": "/img/habilidades/wireshark.svg",
-                    "solid-light": "/img/habilidades/wireshark.svg",
-                    "solid-dark": "/img/habilidades/wireshark.svg"
+                    "light": "img/habilidades/wireshark.svg",
+                    "dark": "img/habilidades/wireshark.svg",
+                    "solid-light": "img/habilidades/wireshark.svg",
+                    "solid-dark": "img/habilidades/wireshark.svg"
                 }
             },
             {
@@ -794,10 +794,10 @@
                     "300000077"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/metasploit.svg",
-                    "dark": "/img/habilidades/metasploit.svg",
-                    "solid-light": "/img/habilidades/metasploit.svg",
-                    "solid-dark": "/img/habilidades/metasploit.svg"
+                    "light": "img/habilidades/metasploit.svg",
+                    "dark": "img/habilidades/metasploit.svg",
+                    "solid-light": "img/habilidades/metasploit.svg",
+                    "solid-dark": "img/habilidades/metasploit.svg"
                 }
             },
             {
@@ -808,10 +808,10 @@
                     "300000078"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/burp-suite.svg",
-                    "dark": "/img/habilidades/burp-suite.svg",
-                    "solid-light": "/img/habilidades/burp-suite.svg",
-                    "solid-dark": "/img/habilidades/burp-suite.svg"
+                    "light": "img/habilidades/burp-suite.svg",
+                    "dark": "img/habilidades/burp-suite.svg",
+                    "solid-light": "img/habilidades/burp-suite.svg",
+                    "solid-dark": "img/habilidades/burp-suite.svg"
                 }
             },
             {
@@ -822,10 +822,10 @@
                     "300000079"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/openssl.svg",
-                    "dark": "/img/habilidades/openssl.svg",
-                    "solid-light": "/img/habilidades/openssl.svg",
-                    "solid-dark": "/img/habilidades/openssl.svg"
+                    "light": "img/habilidades/openssl.svg",
+                    "dark": "img/habilidades/openssl.svg",
+                    "solid-light": "img/habilidades/openssl.svg",
+                    "solid-dark": "img/habilidades/openssl.svg"
                 }
             }
         ]
@@ -841,10 +841,10 @@
                     "300000074"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/kali-linux.svg",
-                    "dark": "/img/habilidades/kali-linux.svg",
-                    "solid-light": "/img/habilidades/kali-linux.svg",
-                    "solid-dark": "/img/habilidades/kali-linux.svg"
+                    "light": "img/habilidades/kali-linux.svg",
+                    "dark": "img/habilidades/kali-linux.svg",
+                    "solid-light": "img/habilidades/kali-linux.svg",
+                    "solid-dark": "img/habilidades/kali-linux.svg"
                 }
             },
             {
@@ -855,10 +855,10 @@
                     "300000075"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/owasp-zap.svg",
-                    "dark": "/img/habilidades/owasp-zap.svg",
-                    "solid-light": "/img/habilidades/owasp-zap.svg",
-                    "solid-dark": "/img/habilidades/owasp-zap.svg"
+                    "light": "img/habilidades/owasp-zap.svg",
+                    "dark": "img/habilidades/owasp-zap.svg",
+                    "solid-light": "img/habilidades/owasp-zap.svg",
+                    "solid-dark": "img/habilidades/owasp-zap.svg"
                 }
             },
             {
@@ -869,10 +869,10 @@
                     "300000076"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/wireshark.svg",
-                    "dark": "/img/habilidades/wireshark.svg",
-                    "solid-light": "/img/habilidades/wireshark.svg",
-                    "solid-dark": "/img/habilidades/wireshark.svg"
+                    "light": "img/habilidades/wireshark.svg",
+                    "dark": "img/habilidades/wireshark.svg",
+                    "solid-light": "img/habilidades/wireshark.svg",
+                    "solid-dark": "img/habilidades/wireshark.svg"
                 }
             },
             {
@@ -883,10 +883,10 @@
                     "300000077"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/metasploit.svg",
-                    "dark": "/img/habilidades/metasploit.svg",
-                    "solid-light": "/img/habilidades/metasploit.svg",
-                    "solid-dark": "/img/habilidades/metasploit.svg"
+                    "light": "img/habilidades/metasploit.svg",
+                    "dark": "img/habilidades/metasploit.svg",
+                    "solid-light": "img/habilidades/metasploit.svg",
+                    "solid-dark": "img/habilidades/metasploit.svg"
                 }
             },
             {
@@ -897,10 +897,10 @@
                     "300000078"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/burp-suite.svg",
-                    "dark": "/img/habilidades/burp-suite.svg",
-                    "solid-light": "/img/habilidades/burp-suite.svg",
-                    "solid-dark": "/img/habilidades/burp-suite.svg"
+                    "light": "img/habilidades/burp-suite.svg",
+                    "dark": "img/habilidades/burp-suite.svg",
+                    "solid-light": "img/habilidades/burp-suite.svg",
+                    "solid-dark": "img/habilidades/burp-suite.svg"
                 }
             },
             {
@@ -911,10 +911,10 @@
                     "300000079"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/openssl.svg",
-                    "dark": "/img/habilidades/openssl.svg",
-                    "solid-light": "/img/habilidades/openssl.svg",
-                    "solid-dark": "/img/habilidades/openssl.svg"
+                    "light": "img/habilidades/openssl.svg",
+                    "dark": "img/habilidades/openssl.svg",
+                    "solid-light": "img/habilidades/openssl.svg",
+                    "solid-dark": "img/habilidades/openssl.svg"
                 }
             }
         ]
@@ -931,10 +931,10 @@
                     "800000004"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/word.svg",
-                    "dark": "/img/habilidades/word.svg",
-                    "solid-light": "/img/habilidades/word.svg",
-                    "solid-dark": "/img/habilidades/word.svg"
+                    "light": "img/habilidades/word.svg",
+                    "dark": "img/habilidades/word.svg",
+                    "solid-light": "img/habilidades/word.svg",
+                    "solid-dark": "img/habilidades/word.svg"
                 }
             },
             {
@@ -946,10 +946,10 @@
                     "800000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/excel.svg",
-                    "dark": "/img/habilidades/excel.svg",
-                    "solid-light": "/img/habilidades/excel.svg",
-                    "solid-dark": "/img/habilidades/excel.svg"
+                    "light": "img/habilidades/excel.svg",
+                    "dark": "img/habilidades/excel.svg",
+                    "solid-light": "img/habilidades/excel.svg",
+                    "solid-dark": "img/habilidades/excel.svg"
                 }
             },
             {
@@ -961,10 +961,10 @@
                     "800000006"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/powerpoint.svg",
-                    "dark": "/img/habilidades/powerpoint.svg",
-                    "solid-light": "/img/habilidades/powerpoint.svg",
-                    "solid-dark": "/img/habilidades/powerpoint.svg"
+                    "light": "img/habilidades/powerpoint.svg",
+                    "dark": "img/habilidades/powerpoint.svg",
+                    "solid-light": "img/habilidades/powerpoint.svg",
+                    "solid-dark": "img/habilidades/powerpoint.svg"
                 }
             },
             {
@@ -976,10 +976,10 @@
                     "800000010"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/access.svg",
-                    "dark": "/img/habilidades/access.svg",
-                    "solid-light": "/img/habilidades/access.svg",
-                    "solid-dark": "/img/habilidades/access.svg"
+                    "light": "img/habilidades/access.svg",
+                    "dark": "img/habilidades/access.svg",
+                    "solid-light": "img/habilidades/access.svg",
+                    "solid-dark": "img/habilidades/access.svg"
                 }
             },
             {
@@ -991,10 +991,10 @@
                     "800000008"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/power-bi.svg",
-                    "dark": "/img/habilidades/power-bi.svg",
-                    "solid-light": "/img/habilidades/power-bi.svg",
-                    "solid-dark": "/img/habilidades/power-bi.svg"
+                    "light": "img/habilidades/power-bi.svg",
+                    "dark": "img/habilidades/power-bi.svg",
+                    "solid-light": "img/habilidades/power-bi.svg",
+                    "solid-dark": "img/habilidades/power-bi.svg"
                 }
             }
         ]

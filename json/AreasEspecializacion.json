@@ -12,8 +12,8 @@
             "Hostinger"
         ],
         "Img": [
-            "/img/areas/desarrollo-web-light.svg",
-            "/img/areas/desarrollo-web-dark.svg"
+            "img/areas/desarrollo-web-light.svg",
+            "img/areas/desarrollo-web-dark.svg"
         ]
     },
     {
@@ -27,8 +27,8 @@
             "PHP"
         ],
         "Img": [
-            "/img/areas/desarrollo-software-light.svg",
-            "/img/areas/desarrollo-software-dark.svg"
+            "img/areas/desarrollo-software-light.svg",
+            "img/areas/desarrollo-software-dark.svg"
         ]
     },
     {
@@ -40,8 +40,8 @@
             "SQL Server"
         ],
         "Img": [
-            "/img/areas/bases-datos-light.svg",
-            "/img/areas/bases-datos-dark.svg"
+            "img/areas/bases-datos-light.svg",
+            "img/areas/bases-datos-dark.svg"
         ]
     }
 ]

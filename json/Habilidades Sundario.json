@@ -11,10 +11,10 @@
                     "300000002"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/python.svg",
-                    "dark": "/img/habilidades/python.svg",
-                    "solid-light": "/img/habilidades/python.svg",
-                    "solid-dark": "/img/habilidades/python.svg"
+                    "light": "img/habilidades/python.svg",
+                    "dark": "img/habilidades/python.svg",
+                    "solid-light": "img/habilidades/python.svg",
+                    "solid-dark": "img/habilidades/python.svg"
                 }
             },
             {
@@ -25,10 +25,10 @@
                     "300000003"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/java.svg",
-                    "dark": "/img/habilidades/java.svg",
-                    "solid-light": "/img/habilidades/java.svg",
-                    "solid-dark": "/img/habilidades/java.svg"
+                    "light": "img/habilidades/java.svg",
+                    "dark": "img/habilidades/java.svg",
+                    "solid-light": "img/habilidades/java.svg",
+                    "solid-dark": "img/habilidades/java.svg"
                 }
             },
             {
@@ -39,10 +39,10 @@
                     "300000004"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/cplusplus.svg",
-                    "dark": "/img/habilidades/cplusplus.svg",
-                    "solid-light": "/img/habilidades/cplusplus.svg",
-                    "solid-dark": "/img/habilidades/cplusplus.svg"
+                    "light": "img/habilidades/cplusplus.svg",
+                    "dark": "img/habilidades/cplusplus.svg",
+                    "solid-light": "img/habilidades/cplusplus.svg",
+                    "solid-dark": "img/habilidades/cplusplus.svg"
                 }
             },
             {
@@ -53,10 +53,10 @@
                     "300000005"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/javascript.svg",
-                    "dark": "/img/habilidades/javascript.svg",
-                    "solid-light": "/img/habilidades/javascript.svg",
-                    "solid-dark": "/img/habilidades/javascript.svg"
+                    "light": "img/habilidades/javascript.svg",
+                    "dark": "img/habilidades/javascript.svg",
+                    "solid-light": "img/habilidades/javascript.svg",
+                    "solid-dark": "img/habilidades/javascript.svg"
                 }
             },
             {
@@ -67,10 +67,10 @@
                     "300000006"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ruby.svg",
-                    "dark": "/img/habilidades/ruby.svg",
-                    "solid-light": "/img/habilidades/ruby.svg",
-                    "solid-dark": "/img/habilidades/ruby.svg"
+                    "light": "img/habilidades/ruby.svg",
+                    "dark": "img/habilidades/ruby.svg",
+                    "solid-light": "img/habilidades/ruby.svg",
+                    "solid-dark": "img/habilidades/ruby.svg"
                 }
             },
             {
@@ -81,10 +81,10 @@
                     "300000007"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/php.svg",
-                    "dark": "/img/habilidades/php.svg",
-                    "solid-light": "/img/habilidades/php.svg",
-                    "solid-dark": "/img/habilidades/php.svg"
+                    "light": "img/habilidades/php.svg",
+                    "dark": "img/habilidades/php.svg",
+                    "solid-light": "img/habilidades/php.svg",
+                    "solid-dark": "img/habilidades/php.svg"
                 }
             },
             {
@@ -95,10 +95,10 @@
                     "300000008"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/swift.svg",
-                    "dark": "/img/habilidades/swift.svg",
-                    "solid-light": "/img/habilidades/swift.svg",
-                    "solid-dark": "/img/habilidades/swift.svg"
+                    "light": "img/habilidades/swift.svg",
+                    "dark": "img/habilidades/swift.svg",
+                    "solid-light": "img/habilidades/swift.svg",
+                    "solid-dark": "img/habilidades/swift.svg"
                 }
             },
             {
@@ -109,10 +109,10 @@
                     "300000009"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/go.svg",
-                    "dark": "/img/habilidades/go.svg",
-                    "solid-light": "/img/habilidades/go.svg",
-                    "solid-dark": "/img/habilidades/go.svg"
+                    "light": "img/habilidades/go.svg",
+                    "dark": "img/habilidades/go.svg",
+                    "solid-light": "img/habilidades/go.svg",
+                    "solid-dark": "img/habilidades/go.svg"
                 }
             },
             {
@@ -123,10 +123,10 @@
                     "300000010"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/kotlin.svg",
-                    "dark": "/img/habilidades/kotlin.svg",
-                    "solid-light": "/img/habilidades/kotlin.svg",
-                    "solid-dark": "/img/habilidades/kotlin.svg"
+                    "light": "img/habilidades/kotlin.svg",
+                    "dark": "img/habilidades/kotlin.svg",
+                    "solid-light": "img/habilidades/kotlin.svg",
+                    "solid-dark": "img/habilidades/kotlin.svg"
                 }
             },
             {
@@ -137,10 +137,10 @@
                     "300000011"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/typescript.svg",
-                    "dark": "/img/habilidades/typescript.svg",
-                    "solid-light": "/img/habilidades/typescript.svg",
-                    "solid-dark": "/img/habilidades/typescript.svg"
+                    "light": "img/habilidades/typescript.svg",
+                    "dark": "img/habilidades/typescript.svg",
+                    "solid-light": "img/habilidades/typescript.svg",
+                    "solid-dark": "img/habilidades/typescript.svg"
                 }
             }
         ]
@@ -156,10 +156,10 @@
                     "300000012"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/git.svg",
-                    "dark": "/img/habilidades/git.svg",
-                    "solid-light": "/img/habilidades/git.svg",
-                    "solid-dark": "/img/habilidades/git.svg"
+                    "light": "img/habilidades/git.svg",
+                    "dark": "img/habilidades/git.svg",
+                    "solid-light": "img/habilidades/git.svg",
+                    "solid-dark": "img/habilidades/git.svg"
                 }
             },
             {
@@ -170,10 +170,10 @@
                     "300000013"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/github.svg",
-                    "dark": "/img/habilidades/github.svg",
-                    "solid-light": "/img/habilidades/github.svg",
-                    "solid-dark": "/img/habilidades/github.svg"
+                    "light": "img/habilidades/github.svg",
+                    "dark": "img/habilidades/github.svg",
+                    "solid-light": "img/habilidades/github.svg",
+                    "solid-dark": "img/habilidades/github.svg"
                 }
             },
             {
@@ -184,10 +184,10 @@
                     "300000014"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/gitlab.svg",
-                    "dark": "/img/habilidades/gitlab.svg",
-                    "solid-light": "/img/habilidades/gitlab.svg",
-                    "solid-dark": "/img/habilidades/gitlab.svg"
+                    "light": "img/habilidades/gitlab.svg",
+                    "dark": "img/habilidades/gitlab.svg",
+                    "solid-light": "img/habilidades/gitlab.svg",
+                    "solid-dark": "img/habilidades/gitlab.svg"
                 }
             },
             {
@@ -198,10 +198,10 @@
                     "300000015"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/bitbucket.svg",
-                    "dark": "/img/habilidades/bitbucket.svg",
-                    "solid-light": "/img/habilidades/bitbucket.svg",
-                    "solid-dark": "/img/habilidades/bitbucket.svg"
+                    "light": "img/habilidades/bitbucket.svg",
+                    "dark": "img/habilidades/bitbucket.svg",
+                    "solid-light": "img/habilidades/bitbucket.svg",
+                    "solid-dark": "img/habilidades/bitbucket.svg"
                 }
             }
         ]
@@ -217,10 +217,10 @@
                     "300000016"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/linux.svg",
-                    "dark": "/img/habilidades/linux.svg",
-                    "solid-light": "/img/habilidades/linux.svg",
-                    "solid-dark": "/img/habilidades/linux.svg"
+                    "light": "img/habilidades/linux.svg",
+                    "dark": "img/habilidades/linux.svg",
+                    "solid-light": "img/habilidades/linux.svg",
+                    "solid-dark": "img/habilidades/linux.svg"
                 }
             },
             {
@@ -231,10 +231,10 @@
                     "300000017"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ubuntu.svg",
-                    "dark": "/img/habilidades/ubuntu.svg",
-                    "solid-light": "/img/habilidades/ubuntu.svg",
-                    "solid-dark": "/img/habilidades/ubuntu.svg"
+                    "light": "img/habilidades/ubuntu.svg",
+                    "dark": "img/habilidades/ubuntu.svg",
+                    "solid-light": "img/habilidades/ubuntu.svg",
+                    "solid-dark": "img/habilidades/ubuntu.svg"
                 }
             },
             {
@@ -245,10 +245,10 @@
                     "300000018"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/centos.svg",
-                    "dark": "/img/habilidades/centos.svg",
-                    "solid-light": "/img/habilidades/centos.svg",
-                    "solid-dark": "/img/habilidades/centos.svg"
+                    "light": "img/habilidades/centos.svg",
+                    "dark": "img/habilidades/centos.svg",
+                    "solid-light": "img/habilidades/centos.svg",
+                    "solid-dark": "img/habilidades/centos.svg"
                 }
             },
             {
@@ -259,10 +259,10 @@
                     "300000019"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/debian.svg",
-                    "dark": "/img/habilidades/debian.svg",
-                    "solid-light": "/img/habilidades/debian.svg",
-                    "solid-dark": "/img/habilidades/debian.svg"
+                    "light": "img/habilidades/debian.svg",
+                    "dark": "img/habilidades/debian.svg",
+                    "solid-light": "img/habilidades/debian.svg",
+                    "solid-dark": "img/habilidades/debian.svg"
                 }
             },
             {
@@ -273,10 +273,10 @@
                     "300000020"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/fedora.svg",
-                    "dark": "/img/habilidades/fedora.svg",
-                    "solid-light": "/img/habilidades/fedora.svg",
-                    "solid-dark": "/img/habilidades/fedora.svg"
+                    "light": "img/habilidades/fedora.svg",
+                    "dark": "img/habilidades/fedora.svg",
+                    "solid-light": "img/habilidades/fedora.svg",
+                    "solid-dark": "img/habilidades/fedora.svg"
                 }
             },
             {
@@ -287,10 +287,10 @@
                     "300000021"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/windows-server.svg",
-                    "dark": "/img/habilidades/windows-server.svg",
-                    "solid-light": "/img/habilidades/windows-server.svg",
-                    "solid-dark": "/img/habilidades/windows-server.svg"
+                    "light": "img/habilidades/windows-server.svg",
+                    "dark": "img/habilidades/windows-server.svg",
+                    "solid-light": "img/habilidades/windows-server.svg",
+                    "solid-dark": "img/habilidades/windows-server.svg"
                 }
             },
             {
@@ -301,10 +301,10 @@
                     "300000022"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/macos.svg",
-                    "dark": "/img/habilidades/macos.svg",
-                    "solid-light": "/img/habilidades/macos.svg",
-                    "solid-dark": "/img/habilidades/macos.svg"
+                    "light": "img/habilidades/macos.svg",
+                    "dark": "img/habilidades/macos.svg",
+                    "solid-light": "img/habilidades/macos.svg",
+                    "solid-dark": "img/habilidades/macos.svg"
                 }
             },
             {
@@ -315,10 +315,10 @@
                     "300000023"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/android.svg",
-                    "dark": "/img/habilidades/android.svg",
-                    "solid-light": "/img/habilidades/android.svg",
-                    "solid-dark": "/img/habilidades/android.svg"
+                    "light": "img/habilidades/android.svg",
+                    "dark": "img/habilidades/android.svg",
+                    "solid-light": "img/habilidades/android.svg",
+                    "solid-dark": "img/habilidades/android.svg"
                 }
             },
             {
@@ -329,10 +329,10 @@
                     "300000024"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ios.svg",
-                    "dark": "/img/habilidades/ios.svg",
-                    "solid-light": "/img/habilidades/ios.svg",
-                    "solid-dark": "/img/habilidades/ios.svg"
+                    "light": "img/habilidades/ios.svg",
+                    "dark": "img/habilidades/ios.svg",
+                    "solid-light": "img/habilidades/ios.svg",
+                    "solid-dark": "img/habilidades/ios.svg"
                 }
             }
         ]
@@ -348,10 +348,10 @@
                     "300000025"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/tcpip.svg",
-                    "dark": "/img/habilidades/tcpip.svg",
-                    "solid-light": "/img/habilidades/tcpip.svg",
-                    "solid-dark": "/img/habilidades/tcpip.svg"
+                    "light": "img/habilidades/tcpip.svg",
+                    "dark": "img/habilidades/tcpip.svg",
+                    "solid-light": "img/habilidades/tcpip.svg",
+                    "solid-dark": "img/habilidades/tcpip.svg"
                 }
             },
             {
@@ -362,10 +362,10 @@
                     "300000026"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/http-https.svg",
-                    "dark": "/img/habilidades/http-https.svg",
-                    "solid-light": "/img/habilidades/http-https.svg",
-                    "solid-dark": "/img/habilidades/http-https.svg"
+                    "light": "img/habilidades/http-https.svg",
+                    "dark": "img/habilidades/http-https.svg",
+                    "solid-light": "img/habilidades/http-https.svg",
+                    "solid-dark": "img/habilidades/http-https.svg"
                 }
             },
             {
@@ -376,10 +376,10 @@
                     "300000027"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/dns.svg",
-                    "dark": "/img/habilidades/dns.svg",
-                    "solid-light": "/img/habilidades/dns.svg",
-                    "solid-dark": "/img/habilidades/dns.svg"
+                    "light": "img/habilidades/dns.svg",
+                    "dark": "img/habilidades/dns.svg",
+                    "solid-light": "img/habilidades/dns.svg",
+                    "solid-dark": "img/habilidades/dns.svg"
                 }
             },
             {
@@ -390,10 +390,10 @@
                     "300000028"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ftp-sftp.svg",
-                    "dark": "/img/habilidades/ftp-sftp.svg",
-                    "solid-light": "/img/habilidades/ftp-sftp.svg",
-                    "solid-dark": "/img/habilidades/ftp-sftp.svg"
+                    "light": "img/habilidades/ftp-sftp.svg",
+                    "dark": "img/habilidades/ftp-sftp.svg",
+                    "solid-light": "img/habilidades/ftp-sftp.svg",
+                    "solid-dark": "img/habilidades/ftp-sftp.svg"
                 }
             },
             {
@@ -404,10 +404,10 @@
                     "300000029"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/vpn.svg",
-                    "dark": "/img/habilidades/vpn.svg",
-                    "solid-light": "/img/habilidades/vpn.svg",
-                    "solid-dark": "/img/habilidades/vpn.svg"
+                    "light": "img/habilidades/vpn.svg",
+                    "dark": "img/habilidades/vpn.svg",
+                    "solid-light": "img/habilidades/vpn.svg",
+                    "solid-dark": "img/habilidades/vpn.svg"
                 }
             },
             {
@@ -418,10 +418,10 @@
                     "300000030"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/wireshark.svg",
-                    "dark": "/img/habilidades/wireshark.svg",
-                    "solid-light": "/img/habilidades/wireshark.svg",
-                    "solid-dark": "/img/habilidades/wireshark.svg"
+                    "light": "img/habilidades/wireshark.svg",
+                    "dark": "img/habilidades/wireshark.svg",
+                    "solid-light": "img/habilidades/wireshark.svg",
+                    "solid-dark": "img/habilidades/wireshark.svg"
                 }
             },
             {
@@ -432,10 +432,10 @@
                     "300000031"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/nginx.svg",
-                    "dark": "/img/habilidades/nginx.svg",
-                    "solid-light": "/img/habilidades/nginx.svg",
-                    "solid-dark": "/img/habilidades/nginx.svg"
+                    "light": "img/habilidades/nginx.svg",
+                    "dark": "img/habilidades/nginx.svg",
+                    "solid-light": "img/habilidades/nginx.svg",
+                    "solid-dark": "img/habilidades/nginx.svg"
                 }
             }
         ]
@@ -451,10 +451,10 @@
                     "300000032"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mvc.svg",
-                    "dark": "/img/habilidades/mvc.svg",
-                    "solid-light": "/img/habilidades/mvc.svg",
-                    "solid-dark": "/img/habilidades/mvc.svg"
+                    "light": "img/habilidades/mvc.svg",
+                    "dark": "img/habilidades/mvc.svg",
+                    "solid-light": "img/habilidades/mvc.svg",
+                    "solid-dark": "img/habilidades/mvc.svg"
                 }
             },
             {
@@ -465,10 +465,10 @@
                     "300000033"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mvvm.svg",
-                    "dark": "/img/habilidades/mvvm.svg",
-                    "solid-light": "/img/habilidades/mvvm.svg",
-                    "solid-dark": "/img/habilidades/mvvm.svg"
+                    "light": "img/habilidades/mvvm.svg",
+                    "dark": "img/habilidades/mvvm.svg",
+                    "solid-light": "img/habilidades/mvvm.svg",
+                    "solid-dark": "img/habilidades/mvvm.svg"
                 }
             },
             {
@@ -479,10 +479,10 @@
                     "300000034"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/microservicios.svg",
-                    "dark": "/img/habilidades/microservicios.svg",
-                    "solid-light": "/img/habilidades/microservicios.svg",
-                    "solid-dark": "/img/habilidades/microservicios.svg"
+                    "light": "img/habilidades/microservicios.svg",
+                    "dark": "img/habilidades/microservicios.svg",
+                    "solid-light": "img/habilidades/microservicios.svg",
+                    "solid-dark": "img/habilidades/microservicios.svg"
                 }
             },
             {
@@ -493,10 +493,10 @@
                     "300000035"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/restful-apis.svg",
-                    "dark": "/img/habilidades/restful-apis.svg",
-                    "solid-light": "/img/habilidades/restful-apis.svg",
-                    "solid-dark": "/img/habilidades/restful-apis.svg"
+                    "light": "img/habilidades/restful-apis.svg",
+                    "dark": "img/habilidades/restful-apis.svg",
+                    "solid-light": "img/habilidades/restful-apis.svg",
+                    "solid-dark": "img/habilidades/restful-apis.svg"
                 }
             },
             {
@@ -507,10 +507,10 @@
                     "300000036"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/graphql.svg",
-                    "dark": "/img/habilidades/graphql.svg",
-                    "solid-light": "/img/habilidades/graphql.svg",
-                    "solid-dark": "/img/habilidades/graphql.svg"
+                    "light": "img/habilidades/graphql.svg",
+                    "dark": "img/habilidades/graphql.svg",
+                    "solid-light": "img/habilidades/graphql.svg",
+                    "solid-dark": "img/habilidades/graphql.svg"
                 }
             },
             {
@@ -521,10 +521,10 @@
                     "300000037"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/soap.svg",
-                    "dark": "/img/habilidades/soap.svg",
-                    "solid-light": "/img/habilidades/soap.svg",
-                    "solid-dark": "/img/habilidades/soap.svg"
+                    "light": "img/habilidades/soap.svg",
+                    "dark": "img/habilidades/soap.svg",
+                    "solid-light": "img/habilidades/soap.svg",
+                    "solid-dark": "img/habilidades/soap.svg"
                 }
             }
         ]
@@ -540,10 +540,10 @@
                     "300000047"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/react.svg",
-                    "dark": "/img/habilidades/react.svg",
-                    "solid-light": "/img/habilidades/react.svg",
-                    "solid-dark": "/img/habilidades/react.svg"
+                    "light": "img/habilidades/react.svg",
+                    "dark": "img/habilidades/react.svg",
+                    "solid-light": "img/habilidades/react.svg",
+                    "solid-dark": "img/habilidades/react.svg"
                 }
             },
             {
@@ -554,10 +554,10 @@
                     "300000048"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/vue.svg",
-                    "dark": "/img/habilidades/vue.svg",
-                    "solid-light": "/img/habilidades/vue.svg",
-                    "solid-dark": "/img/habilidades/vue.svg"
+                    "light": "img/habilidades/vue.svg",
+                    "dark": "img/habilidades/vue.svg",
+                    "solid-light": "img/habilidades/vue.svg",
+                    "solid-dark": "img/habilidades/vue.svg"
                 }
             },
             {
@@ -568,10 +568,10 @@
                     "300000049"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/angular.svg",
-                    "dark": "/img/habilidades/angular.svg",
-                    "solid-light": "/img/habilidades/angular.svg",
-                    "solid-dark": "/img/habilidades/angular.svg"
+                    "light": "img/habilidades/angular.svg",
+                    "dark": "img/habilidades/angular.svg",
+                    "solid-light": "img/habilidades/angular.svg",
+                    "solid-dark": "img/habilidades/angular.svg"
                 }
             },
             {
@@ -582,10 +582,10 @@
                     "300000050"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/svelte.svg",
-                    "dark": "/img/habilidades/svelte.svg",
-                    "solid-light": "/img/habilidades/svelte.svg",
-                    "solid-dark": "/img/habilidades/svelte.svg"
+                    "light": "img/habilidades/svelte.svg",
+                    "dark": "img/habilidades/svelte.svg",
+                    "solid-light": "img/habilidades/svelte.svg",
+                    "solid-dark": "img/habilidades/svelte.svg"
                 }
             }
         ]
@@ -601,10 +601,10 @@
                     "300000051"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/nodejs.svg",
-                    "dark": "/img/habilidades/nodejs.svg",
-                    "solid-light": "/img/habilidades/nodejs.svg",
-                    "solid-dark": "/img/habilidades/nodejs.svg"
+                    "light": "img/habilidades/nodejs.svg",
+                    "dark": "img/habilidades/nodejs.svg",
+                    "solid-light": "img/habilidades/nodejs.svg",
+                    "solid-dark": "img/habilidades/nodejs.svg"
                 }
             },
             {
@@ -615,10 +615,10 @@
                     "300000052"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/express.svg",
-                    "dark": "/img/habilidades/express.svg",
-                    "solid-light": "/img/habilidades/express.svg",
-                    "solid-dark": "/img/habilidades/express.svg"
+                    "light": "img/habilidades/express.svg",
+                    "dark": "img/habilidades/express.svg",
+                    "solid-light": "img/habilidades/express.svg",
+                    "solid-dark": "img/habilidades/express.svg"
                 }
             },
             {
@@ -629,10 +629,10 @@
                     "300000053"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/django.svg",
-                    "dark": "/img/habilidades/django.svg",
-                    "solid-light": "/img/habilidades/django.svg",
-                    "solid-dark": "/img/habilidades/django.svg"
+                    "light": "img/habilidades/django.svg",
+                    "dark": "img/habilidades/django.svg",
+                    "solid-light": "img/habilidades/django.svg",
+                    "solid-dark": "img/habilidades/django.svg"
                 }
             },
             {
@@ -643,10 +643,10 @@
                     "300000054"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/flask.svg",
-                    "dark": "/img/habilidades/flask.svg",
-                    "solid-light": "/img/habilidades/flask.svg",
-                    "solid-dark": "/img/habilidades/flask.svg"
+                    "light": "img/habilidades/flask.svg",
+                    "dark": "img/habilidades/flask.svg",
+                    "solid-light": "img/habilidades/flask.svg",
+                    "solid-dark": "img/habilidades/flask.svg"
                 }
             },
             {
@@ -657,10 +657,10 @@
                     "300000055"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/springboot.svg",
-                    "dark": "/img/habilidades/springboot.svg",
-                    "solid-light": "/img/habilidades/springboot.svg",
-                    "solid-dark": "/img/habilidades/springboot.svg"
+                    "light": "img/habilidades/springboot.svg",
+                    "dark": "img/habilidades/springboot.svg",
+                    "solid-light": "img/habilidades/springboot.svg",
+                    "solid-dark": "img/habilidades/springboot.svg"
                 }
             },
             {
@@ -671,10 +671,10 @@
                     "300000056"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/rails.svg",
-                    "dark": "/img/habilidades/rails.svg",
-                    "solid-light": "/img/habilidades/rails.svg",
-                    "solid-dark": "/img/habilidades/rails.svg"
+                    "light": "img/habilidades/rails.svg",
+                    "dark": "img/habilidades/rails.svg",
+                    "solid-light": "img/habilidades/rails.svg",
+                    "solid-dark": "img/habilidades/rails.svg"
                 }
             },
             {
@@ -685,10 +685,10 @@
                     "300000057"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/laravel.svg",
-                    "dark": "/img/habilidades/laravel.svg",
-                    "solid-light": "/img/habilidades/laravel.svg",
-                    "solid-dark": "/img/habilidades/laravel.svg"
+                    "light": "img/habilidades/laravel.svg",
+                    "dark": "img/habilidades/laravel.svg",
+                    "solid-light": "img/habilidades/laravel.svg",
+                    "solid-dark": "img/habilidades/laravel.svg"
                 }
             }
         ]
@@ -704,10 +704,10 @@
                     "300000038"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mysql.svg",
-                    "dark": "/img/habilidades/mysql.svg",
-                    "solid-light": "/img/habilidades/mysql.svg",
-                    "solid-dark": "/img/habilidades/mysql.svg"
+                    "light": "img/habilidades/mysql.svg",
+                    "dark": "img/habilidades/mysql.svg",
+                    "solid-light": "img/habilidades/mysql.svg",
+                    "solid-dark": "img/habilidades/mysql.svg"
                 }
             },
             {
@@ -718,10 +718,10 @@
                     "300000039"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/postgresql.svg",
-                    "dark": "/img/habilidades/postgresql.svg",
-                    "solid-light": "/img/habilidades/postgresql.svg",
-                    "solid-dark": "/img/habilidades/postgresql.svg"
+                    "light": "img/habilidades/postgresql.svg",
+                    "dark": "img/habilidades/postgresql.svg",
+                    "solid-light": "img/habilidades/postgresql.svg",
+                    "solid-dark": "img/habilidades/postgresql.svg"
                 }
             },
             {
@@ -732,10 +732,10 @@
                     "300000040"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/sqlserver.svg",
-                    "dark": "/img/habilidades/sqlserver.svg",
-                    "solid-light": "/img/habilidades/sqlserver.svg",
-                    "solid-dark": "/img/habilidades/sqlserver.svg"
+                    "light": "img/habilidades/sqlserver.svg",
+                    "dark": "img/habilidades/sqlserver.svg",
+                    "solid-light": "img/habilidades/sqlserver.svg",
+                    "solid-dark": "img/habilidades/sqlserver.svg"
                 }
             },
             {
@@ -746,10 +746,10 @@
                     "300000041"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mongodb.svg",
-                    "dark": "/img/habilidades/mongodb.svg",
-                    "solid-light": "/img/habilidades/mongodb.svg",
-                    "solid-dark": "/img/habilidades/mongodb.svg"
+                    "light": "img/habilidades/mongodb.svg",
+                    "dark": "img/habilidades/mongodb.svg",
+                    "solid-light": "img/habilidades/mongodb.svg",
+                    "solid-dark": "img/habilidades/mongodb.svg"
                 }
             },
             {
@@ -760,10 +760,10 @@
                     "300000042"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/cassandra.svg",
-                    "dark": "/img/habilidades/cassandra.svg",
-                    "solid-light": "/img/habilidades/cassandra.svg",
-                    "solid-dark": "/img/habilidades/cassandra.svg"
+                    "light": "img/habilidades/cassandra.svg",
+                    "dark": "img/habilidades/cassandra.svg",
+                    "solid-light": "img/habilidades/cassandra.svg",
+                    "solid-dark": "img/habilidades/cassandra.svg"
                 }
             }
         ]
@@ -779,10 +779,10 @@
                     "300000043"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/vscode.svg",
-                    "dark": "/img/habilidades/vscode.svg",
-                    "solid-light": "/img/habilidades/vscode.svg",
-                    "solid-dark": "/img/habilidades/vscode.svg"
+                    "light": "img/habilidades/vscode.svg",
+                    "dark": "img/habilidades/vscode.svg",
+                    "solid-light": "img/habilidades/vscode.svg",
+                    "solid-dark": "img/habilidades/vscode.svg"
                 }
             },
             {
@@ -793,10 +793,10 @@
                     "300000044"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/intellij.svg",
-                    "dark": "/img/habilidades/intellij.svg",
-                    "solid-light": "/img/habilidades/intellij.svg",
-                    "solid-dark": "/img/habilidades/intellij.svg"
+                    "light": "img/habilidades/intellij.svg",
+                    "dark": "img/habilidades/intellij.svg",
+                    "solid-light": "img/habilidades/intellij.svg",
+                    "solid-dark": "img/habilidades/intellij.svg"
                 }
             },
             {
@@ -807,10 +807,10 @@
                     "300000045"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/pycharm.svg",
-                    "dark": "/img/habilidades/pycharm.svg",
-                    "solid-light": "/img/habilidades/pycharm.svg",
-                    "solid-dark": "/img/habilidades/pycharm.svg"
+                    "light": "img/habilidades/pycharm.svg",
+                    "dark": "img/habilidades/pycharm.svg",
+                    "solid-light": "img/habilidades/pycharm.svg",
+                    "solid-dark": "img/habilidades/pycharm.svg"
                 }
             },
             {
@@ -821,10 +821,10 @@
                     "300000046"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/eclipse.svg",
-                    "dark": "/img/habilidades/eclipse.svg",
-                    "solid-light": "/img/habilidades/eclipse.svg",
-                    "solid-dark": "/img/habilidades/eclipse.svg"
+                    "light": "img/habilidades/eclipse.svg",
+                    "dark": "img/habilidades/eclipse.svg",
+                    "solid-light": "img/habilidades/eclipse.svg",
+                    "solid-dark": "img/habilidades/eclipse.svg"
                 }
             }
         ]
@@ -840,10 +840,10 @@
                     "300000058"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/docker.svg",
-                    "dark": "/img/habilidades/docker.svg",
-                    "solid-light": "/img/habilidades/docker.svg",
-                    "solid-dark": "/img/habilidades/docker.svg"
+                    "light": "img/habilidades/docker.svg",
+                    "dark": "img/habilidades/docker.svg",
+                    "solid-light": "img/habilidades/docker.svg",
+                    "solid-dark": "img/habilidades/docker.svg"
                 }
             },
             {
@@ -854,10 +854,10 @@
                     "300000059"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/kubernetes.svg",
-                    "dark": "/img/habilidades/kubernetes.svg",
-                    "solid-light": "/img/habilidades/kubernetes.svg",
-                    "solid-dark": "/img/habilidades/kubernetes.svg"
+                    "light": "img/habilidades/kubernetes.svg",
+                    "dark": "img/habilidades/kubernetes.svg",
+                    "solid-light": "img/habilidades/kubernetes.svg",
+                    "solid-dark": "img/habilidades/kubernetes.svg"
                 }
             },
             {
@@ -868,10 +868,10 @@
                     "300000060"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/jenkins.svg",
-                    "dark": "/img/habilidades/jenkins.svg",
-                    "solid-light": "/img/habilidades/jenkins.svg",
-                    "solid-dark": "/img/habilidades/jenkins.svg"
+                    "light": "img/habilidades/jenkins.svg",
+                    "dark": "img/habilidades/jenkins.svg",
+                    "solid-light": "img/habilidades/jenkins.svg",
+                    "solid-dark": "img/habilidades/jenkins.svg"
                 }
             },
             {
@@ -882,10 +882,10 @@
                     "300000061"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/gitlab.svg",
-                    "dark": "/img/habilidades/gitlab.svg",
-                    "solid-light": "/img/habilidades/gitlab.svg",
-                    "solid-dark": "/img/habilidades/gitlab.svg"
+                    "light": "img/habilidades/gitlab.svg",
+                    "dark": "img/habilidades/gitlab.svg",
+                    "solid-light": "img/habilidades/gitlab.svg",
+                    "solid-dark": "img/habilidades/gitlab.svg"
                 }
             },
             {
@@ -896,10 +896,10 @@
                     "300000062"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/ansible.svg",
-                    "dark": "/img/habilidades/ansible.svg",
-                    "solid-light": "/img/habilidades/ansible.svg",
-                    "solid-dark": "/img/habilidades/ansible.svg"
+                    "light": "img/habilidades/ansible.svg",
+                    "dark": "img/habilidades/ansible.svg",
+                    "solid-light": "img/habilidades/ansible.svg",
+                    "solid-dark": "img/habilidades/ansible.svg"
                 }
             },
             {
@@ -910,10 +910,10 @@
                     "300000063"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/terraform.svg",
-                    "dark": "/img/habilidades/terraform.svg",
-                    "solid-light": "/img/habilidades/terraform.svg",
-                    "solid-dark": "/img/habilidades/terraform.svg"
+                    "light": "img/habilidades/terraform.svg",
+                    "dark": "img/habilidades/terraform.svg",
+                    "solid-light": "img/habilidades/terraform.svg",
+                    "solid-dark": "img/habilidades/terraform.svg"
                 }
             },
             {
@@ -924,10 +924,10 @@
                     "300000064"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/chef.svg",
-                    "dark": "/img/habilidades/chef.svg",
-                    "solid-light": "/img/habilidades/chef.svg",
-                    "solid-dark": "/img/habilidades/chef.svg"
+                    "light": "img/habilidades/chef.svg",
+                    "dark": "img/habilidades/chef.svg",
+                    "solid-light": "img/habilidades/chef.svg",
+                    "solid-dark": "img/habilidades/chef.svg"
                 }
             },
             {
@@ -938,10 +938,10 @@
                     "300000065"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/puppet.svg",
-                    "dark": "/img/habilidades/puppet.svg",
-                    "solid-light": "/img/habilidades/puppet.svg",
-                    "solid-dark": "/img/habilidades/puppet.svg"
+                    "light": "img/habilidades/puppet.svg",
+                    "dark": "img/habilidades/puppet.svg",
+                    "solid-light": "img/habilidades/puppet.svg",
+                    "solid-dark": "img/habilidades/puppet.svg"
                 }
             }
         ]
@@ -957,10 +957,10 @@
                     "300000066"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/junit.svg",
-                    "dark": "/img/habilidades/junit.svg",
-                    "solid-light": "/img/habilidades/junit.svg",
-                    "solid-dark": "/img/habilidades/junit.svg"
+                    "light": "img/habilidades/junit.svg",
+                    "dark": "img/habilidades/junit.svg",
+                    "solid-light": "img/habilidades/junit.svg",
+                    "solid-dark": "img/habilidades/junit.svg"
                 }
             },
             {
@@ -971,10 +971,10 @@
                     "300000067"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/junit5.svg",
-                    "dark": "/img/habilidades/junit5.svg",
-                    "solid-light": "/img/habilidades/junit5.svg",
-                    "solid-dark": "/img/habilidades/junit5.svg"
+                    "light": "img/habilidades/junit5.svg",
+                    "dark": "img/habilidades/junit5.svg",
+                    "solid-light": "img/habilidades/junit5.svg",
+                    "solid-dark": "img/habilidades/junit5.svg"
                 }
             },
             {
@@ -985,10 +985,10 @@
                     "300000068"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/selenium.svg",
-                    "dark": "/img/habilidades/selenium.svg",
-                    "solid-light": "/img/habilidades/selenium.svg",
-                    "solid-dark": "/img/habilidades/selenium.svg"
+                    "light": "img/habilidades/selenium.svg",
+                    "dark": "img/habilidades/selenium.svg",
+                    "solid-light": "img/habilidades/selenium.svg",
+                    "solid-dark": "img/habilidades/selenium.svg"
                 }
             },
             {
@@ -999,10 +999,10 @@
                     "300000069"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mockito.svg",
-                    "dark": "/img/habilidades/mockito.svg",
-                    "solid-light": "/img/habilidades/mockito.svg",
-                    "solid-dark": "/img/habilidades/mockito.svg"
+                    "light": "img/habilidades/mockito.svg",
+                    "dark": "img/habilidades/mockito.svg",
+                    "solid-light": "img/habilidades/mockito.svg",
+                    "solid-dark": "img/habilidades/mockito.svg"
                 }
             },
             {
@@ -1013,10 +1013,10 @@
                     "300000070"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/cypress.svg",
-                    "dark": "/img/habilidades/cypress.svg",
-                    "solid-light": "/img/habilidades/cypress.svg",
-                    "solid-dark": "/img/habilidades/cypress.svg"
+                    "light": "img/habilidades/cypress.svg",
+                    "dark": "img/habilidades/cypress.svg",
+                    "solid-light": "img/habilidades/cypress.svg",
+                    "solid-dark": "img/habilidades/cypress.svg"
                 }
             },
             {
@@ -1027,10 +1027,10 @@
                     "300000071"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/postman.svg",
-                    "dark": "/img/habilidades/postman.svg",
-                    "solid-light": "/img/habilidades/postman.svg",
-                    "solid-dark": "/img/habilidades/postman.svg"
+                    "light": "img/habilidades/postman.svg",
+                    "dark": "img/habilidades/postman.svg",
+                    "solid-light": "img/habilidades/postman.svg",
+                    "solid-dark": "img/habilidades/postman.svg"
                 }
             },
             {
@@ -1041,10 +1041,10 @@
                     "300000072"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/jest.svg",
-                    "dark": "/img/habilidades/jest.svg",
-                    "solid-light": "/img/habilidades/jest.svg",
-                    "solid-dark": "/img/habilidades/jest.svg"
+                    "light": "img/habilidades/jest.svg",
+                    "dark": "img/habilidades/jest.svg",
+                    "solid-light": "img/habilidades/jest.svg",
+                    "solid-dark": "img/habilidades/jest.svg"
                 }
             },
             {
@@ -1055,10 +1055,10 @@
                     "300000073"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/mocha.svg",
-                    "dark": "/img/habilidades/mocha.svg",
-                    "solid-light": "/img/habilidades/mocha.svg",
-                    "solid-dark": "/img/habilidades/mocha.svg"
+                    "light": "img/habilidades/mocha.svg",
+                    "dark": "img/habilidades/mocha.svg",
+                    "solid-light": "img/habilidades/mocha.svg",
+                    "solid-dark": "img/habilidades/mocha.svg"
                 }
             }
         ]
@@ -1074,10 +1074,10 @@
                     "300000074"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/kali-linux.svg",
-                    "dark": "/img/habilidades/kali-linux.svg",
-                    "solid-light": "/img/habilidades/kali-linux.svg",
-                    "solid-dark": "/img/habilidades/kali-linux.svg"
+                    "light": "img/habilidades/kali-linux.svg",
+                    "dark": "img/habilidades/kali-linux.svg",
+                    "solid-light": "img/habilidades/kali-linux.svg",
+                    "solid-dark": "img/habilidades/kali-linux.svg"
                 }
             },
             {
@@ -1088,10 +1088,10 @@
                     "300000075"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/owasp-zap.svg",
-                    "dark": "/img/habilidades/owasp-zap.svg",
-                    "solid-light": "/img/habilidades/owasp-zap.svg",
-                    "solid-dark": "/img/habilidades/owasp-zap.svg"
+                    "light": "img/habilidades/owasp-zap.svg",
+                    "dark": "img/habilidades/owasp-zap.svg",
+                    "solid-light": "img/habilidades/owasp-zap.svg",
+                    "solid-dark": "img/habilidades/owasp-zap.svg"
                 }
             },
             {
@@ -1102,10 +1102,10 @@
                     "300000076"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/wireshark.svg",
-                    "dark": "/img/habilidades/wireshark.svg",
-                    "solid-light": "/img/habilidades/wireshark.svg",
-                    "solid-dark": "/img/habilidades/wireshark.svg"
+                    "light": "img/habilidades/wireshark.svg",
+                    "dark": "img/habilidades/wireshark.svg",
+                    "solid-light": "img/habilidades/wireshark.svg",
+                    "solid-dark": "img/habilidades/wireshark.svg"
                 }
             },
             {
@@ -1116,10 +1116,10 @@
                     "300000077"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/metasploit.svg",
-                    "dark": "/img/habilidades/metasploit.svg",
-                    "solid-light": "/img/habilidades/metasploit.svg",
-                    "solid-dark": "/img/habilidades/metasploit.svg"
+                    "light": "img/habilidades/metasploit.svg",
+                    "dark": "img/habilidades/metasploit.svg",
+                    "solid-light": "img/habilidades/metasploit.svg",
+                    "solid-dark": "img/habilidades/metasploit.svg"
                 }
             },
             {
@@ -1130,10 +1130,10 @@
                     "300000078"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/burp-suite.svg",
-                    "dark": "/img/habilidades/burp-suite.svg",
-                    "solid-light": "/img/habilidades/burp-suite.svg",
-                    "solid-dark": "/img/habilidades/burp-suite.svg"
+                    "light": "img/habilidades/burp-suite.svg",
+                    "dark": "img/habilidades/burp-suite.svg",
+                    "solid-light": "img/habilidades/burp-suite.svg",
+                    "solid-dark": "img/habilidades/burp-suite.svg"
                 }
             },
             {
@@ -1144,10 +1144,10 @@
                     "300000079"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/openssl.svg",
-                    "dark": "/img/habilidades/openssl.svg",
-                    "solid-light": "/img/habilidades/openssl.svg",
-                    "solid-dark": "/img/habilidades/openssl.svg"
+                    "light": "img/habilidades/openssl.svg",
+                    "dark": "img/habilidades/openssl.svg",
+                    "solid-light": "img/habilidades/openssl.svg",
+                    "solid-dark": "img/habilidades/openssl.svg"
                 }
             }
         ]
@@ -1163,10 +1163,10 @@
                     "300000080"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/aws-ec2.svg",
-                    "dark": "/img/habilidades/aws-ec2.svg",
-                    "solid-light": "/img/habilidades/aws-ec2.svg",
-                    "solid-dark": "/img/habilidades/aws-ec2.svg"
+                    "light": "img/habilidades/aws-ec2.svg",
+                    "dark": "img/habilidades/aws-ec2.svg",
+                    "solid-light": "img/habilidades/aws-ec2.svg",
+                    "solid-dark": "img/habilidades/aws-ec2.svg"
                 }
             },
             {
@@ -1177,10 +1177,10 @@
                     "300000081"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/aws-s3.svg",
-                    "dark": "/img/habilidades/aws-s3.svg",
-                    "solid-light": "/img/habilidades/aws-s3.svg",
-                    "solid-dark": "/img/habilidades/aws-s3.svg"
+                    "light": "img/habilidades/aws-s3.svg",
+                    "dark": "img/habilidades/aws-s3.svg",
+                    "solid-light": "img/habilidades/aws-s3.svg",
+                    "solid-dark": "img/habilidades/aws-s3.svg"
                 }
             },
             {
@@ -1191,10 +1191,10 @@
                     "300000082"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/aws-rds.svg",
-                    "dark": "/img/habilidades/aws-rds.svg",
-                    "solid-light": "/img/habilidades/aws-rds.svg",
-                    "solid-dark": "/img/habilidades/aws-rds.svg"
+                    "light": "img/habilidades/aws-rds.svg",
+                    "dark": "img/habilidades/aws-rds.svg",
+                    "solid-light": "img/habilidades/aws-rds.svg",
+                    "solid-dark": "img/habilidades/aws-rds.svg"
                 }
             },
             {
@@ -1205,10 +1205,10 @@
                     "300000083"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/aws-lambda.svg",
-                    "dark": "/img/habilidades/aws-lambda.svg",
-                    "solid-light": "/img/habilidades/aws-lambda.svg",
-                    "solid-dark": "/img/habilidades/aws-lambda.svg"
+                    "light": "img/habilidades/aws-lambda.svg",
+                    "dark": "img/habilidades/aws-lambda.svg",
+                    "solid-light": "img/habilidades/aws-lambda.svg",
+                    "solid-dark": "img/habilidades/aws-lambda.svg"
                 }
             },
             {
@@ -1219,10 +1219,10 @@
                     "300000084"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/azure-compute.svg",
-                    "dark": "/img/habilidades/azure-compute.svg",
-                    "solid-light": "/img/habilidades/azure-compute.svg",
-                    "solid-dark": "/img/habilidades/azure-compute.svg"
+                    "light": "img/habilidades/azure-compute.svg",
+                    "dark": "img/habilidades/azure-compute.svg",
+                    "solid-light": "img/habilidades/azure-compute.svg",
+                    "solid-dark": "img/habilidades/azure-compute.svg"
                 }
             },
             {
@@ -1233,10 +1233,10 @@
                     "300000085"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/azure-storage.svg",
-                    "dark": "/img/habilidades/azure-storage.svg",
-                    "solid-light": "/img/habilidades/azure-storage.svg",
-                    "solid-dark": "/img/habilidades/azure-storage.svg"
+                    "light": "img/habilidades/azure-storage.svg",
+                    "dark": "img/habilidades/azure-storage.svg",
+                    "solid-light": "img/habilidades/azure-storage.svg",
+                    "solid-dark": "img/habilidades/azure-storage.svg"
                 }
             },
             {
@@ -1247,10 +1247,10 @@
                     "300000086"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/google-cloud-compute-engine.svg",
-                    "dark": "/img/habilidades/google-cloud-compute-engine.svg",
-                    "solid-light": "/img/habilidades/google-cloud-compute-engine.svg",
-                    "solid-dark": "/img/habilidades/google-cloud-compute-engine.svg"
+                    "light": "img/habilidades/google-cloud-compute-engine.svg",
+                    "dark": "img/habilidades/google-cloud-compute-engine.svg",
+                    "solid-light": "img/habilidades/google-cloud-compute-engine.svg",
+                    "solid-dark": "img/habilidades/google-cloud-compute-engine.svg"
                 }
             },
             {
@@ -1261,10 +1261,10 @@
                     "300000087"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/google-firebase.svg",
-                    "dark": "/img/habilidades/google-firebase.svg",
-                    "solid-light": "/img/habilidades/google-firebase.svg",
-                    "solid-dark": "/img/habilidades/google-firebase.svg"
+                    "light": "img/habilidades/google-firebase.svg",
+                    "dark": "img/habilidades/google-firebase.svg",
+                    "solid-light": "img/habilidades/google-firebase.svg",
+                    "solid-dark": "img/habilidades/google-firebase.svg"
                 }
             },
             {
@@ -1275,10 +1275,10 @@
                     "300000088"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/heroku.svg",
-                    "dark": "/img/habilidades/heroku.svg",
-                    "solid-light": "/img/habilidades/heroku.svg",
-                    "solid-dark": "/img/habilidades/heroku.svg"
+                    "light": "img/habilidades/heroku.svg",
+                    "dark": "img/habilidades/heroku.svg",
+                    "solid-light": "img/habilidades/heroku.svg",
+                    "solid-dark": "img/habilidades/heroku.svg"
                 }
             },
             {
@@ -1289,10 +1289,10 @@
                     "300000089"
                 ],
                 "Img": {
-                    "light": "/img/habilidades/digitalocean.svg",
-                    "dark": "/img/habilidades/digitalocean.svg",
-                    "solid-light": "/img/habilidades/digitalocean.svg",
-                    "solid-dark": "/img/habilidades/digitalocean.svg"
+                    "light": "img/habilidades/digitalocean.svg",
+                    "dark": "img/habilidades/digitalocean.svg",
+                    "solid-light": "img/habilidades/digitalocean.svg",
+                    "solid-dark": "img/habilidades/digitalocean.svg"
                 }
             }
         ]
