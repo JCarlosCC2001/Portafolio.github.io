@@ -39,7 +39,7 @@
             }
         },
         "Gmail": {
-            "State": "activated",
+            "State": "desactivated",
             "Link": "https://mail.google.com/",
             "Img": {
                 "light": "img/redes sociales/gmail.svg",

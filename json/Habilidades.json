@@ -920,7 +920,7 @@
         ]
     },
     "Otros Conocimientos": {
-        "State": "activated",
+        "State": "desactivated",
         "Contenido": [
             {
                 "State": "activated",

@@ -1,5 +1,31 @@
 [
     {
+        "Nombre": "El Buen Contador.",
+        "Descripcion": "Descubre nuestras soluciones avanzadas para una gestión aún más eficiente gracias a nuestro webinar gratuito. No olvides ingresar al grupo de whatssap.",
+        "Pertenecia": "Consigue Ventas",
+        "Tipo": "Desarrollo de Web",
+        "Habilidades": [
+            "Wordpress"
+        ],
+        "Img": [
+            "img/proyectos/elbuencontador.png"
+        ],
+        "Link": "https://elbuencontador.pe/"
+    },
+    {
+        "Nombre": "Contador 360",
+        "Descripcion": "Descubre nuestras soluciones avanzadas para una gestión aún más eficiente gracias a nuestro webinar gratuito. No olvides ingresar al grupo de whatssap.",
+        "Pertenecia": "Consigue Ventas",
+        "Tipo": "Desarrollo de Web",
+        "Habilidades": [
+            "Wordpress"
+        ],
+        "Img": [
+            "img/proyectos/contador360.png"
+        ],
+        "Link": "https://contador360.pe/"
+    },
+    {
         "Nombre": "Full Ventas",
         "Descripcion": "Descubre nuestras soluciones avanzadas para una gestión aún más eficiente gracias a nuestro webinar gratuito. No olvides ingresar al grupo de whatssap.",
         "Pertenecia": "Consigue Ventas",
